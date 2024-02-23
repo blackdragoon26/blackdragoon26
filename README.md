@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blackdragoon26
 - 👀 I’m interested in finding new people
-- 🌱 I’m currently enhancing skills on python
-- 💞️ I’m looking to collaborate on some good advanced projects on python
+- 🌱 I’m currently working on web/app developement and CP
+- 💞️ I’m looking to collaborate on some good advanced projects
 - 📫 emailid : sankalp.jha9643@gmail.com
 
 <!---
