@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @blackdragoon26
-- 🌱 I’m currently working on web/app developement and CP
-- 💞️ I’m looking to collaborate on some good advanced projects
+- 👋 Hi, Sankalp here!
+- 🌱 I’m currently working on MERN and CP
 - 📫 emailid : sankalp.jha9643@gmail.com
 
 <!---
