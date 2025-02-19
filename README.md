@@ -1,5 +1,5 @@
 - 👋 Hi, Sankalp here!
-- 🌱 I’m currently working on MERN and CP
+- 🌱 I’m currently working on MERN and CP... aspiring secdevops!
 - 📫 emailid : sankalp.jha9643@gmail.com
 
 <!---
