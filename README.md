@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on node.js and CP.
+ I’m currently working on GOlang ig :) and CP ehhh.
 Aspiring DevSecOps.
 
 ## 🌐 Socials:
