@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on GOlang ig :) and CP ehhh.
+ I’m currently working on GoLang and CP ehhh.
 Aspiring DevSecOps.
 
 ## 🌐 Socials:
