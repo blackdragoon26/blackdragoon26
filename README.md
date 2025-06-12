@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on GoLang and P4.<br>Aspiring DevSecOps!
+ I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
 
 
 ## 🌐 Socials:
