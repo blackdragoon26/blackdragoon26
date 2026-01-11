@@ -9,6 +9,17 @@ Last move: 🔴 in col 0. Next turn: 🟡
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | 🔴 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C0&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C1&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C2&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C3&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C4&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C5&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C6&body=Just+push+submit) |
+
+Last move: 🔴 in col 0. Next turn: 🟡
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| 🔴 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C0&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C1&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C2&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C3&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C4&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C5&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C6&body=Just+push+submit) |
 # 💫 About Me:
  I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
 
