@@ -25,16 +25,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackdragoon26/blackdragoon26/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-## Play Connect 4 (Go Edition)
+## Play Connect 4
 Click a column number to drop a piece.
 
 Last move: None. Next turn: 🔴
-⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪
-⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪
-⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪
-⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪
-⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪
-⚪ ⚪ ⚪ ⚪ ⚪ ⚪ ⚪
-| [Drop 0](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C0&body=Just+push+submit) | [Drop 1](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C1&body=Just+push+submit) | [Drop 2](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C2&body=Just+push+submit) | [Drop 3](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C3&body=Just+push+submit) | [Drop 4](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C4&body=Just+push+submit) | [Drop 5](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C5&body=Just+push+submit) | [Drop 6](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C6&body=Just+push+submit) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C0&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C1&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C2&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C3&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C4&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C5&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C6&body=Just+push+submit) |
+
