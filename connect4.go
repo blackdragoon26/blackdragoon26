@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
+	"net/url" // Added this to encode messages properly
 	"os"
-	"strings"
 	"strconv"
+	"strings"
 )
 
 const (
@@ -16,7 +17,7 @@ const (
 	StartMarker  = ""
 	EndMarker    = ""
 	ReadmeFile   = "README.md"
-	RepoUser     = "blackdragoon26" // Change this if your user/repo changes
+	RepoUser     = "blackdragoon26" 
 	RepoName     = "blackdragoon26"
 )
 
@@ -52,17 +53,11 @@ func main() {
 	boardSection := content[startIndex+len(StartMarker) : endIndex]
 	lines := strings.Split(strings.TrimSpace(boardSection), "\n")
 
-	// 4. Parse Grid from Markdown Table
+	// 4. Parse Grid
 	grid := make([][]string, 0)
-	
-	// We scan lines to find the actual rows with emojis
 	for _, line := range lines {
-		// Clean the line of pipes
 		cleanLine := strings.ReplaceAll(line, "|", " ")
 		items := strings.Fields(cleanLine)
-
-		// Heuristic: A valid game row has exactly 7 items and contains our game pieces
-		// We skip headers (1 2 3), separators (---), and button rows (⬇️)
 		if len(items) == Cols {
 			isGameRow := true
 			for _, item := range items {
@@ -77,13 +72,11 @@ func main() {
 		}
 	}
 
-	// Safety check if grid read failed
 	if len(grid) != Rows {
-		fmt.Println("Error reading grid. Found rows:", len(grid))
-		// Fallback: Create empty board if parsing fails entirely to prevent crash
 		if len(grid) == 0 {
 			grid = resetBoard()
 		} else {
+			fmt.Println("Error reading grid. Found rows:", len(grid))
 			os.Exit(1)
 		}
 	}
@@ -117,7 +110,7 @@ func main() {
 
 	if !placed {
 		fmt.Println("Column full. No move made.")
-		os.Exit(0) // Exit success so action doesn't fail, but nothing changes
+		os.Exit(0)
 	}
 
 	// 7. Check Win
@@ -126,7 +119,7 @@ func main() {
 		winner = currentPlayer
 	}
 
-	// 8. Reconstruct Output (The Pretty Table)
+	// 8. Reconstruct Output
 	var sb strings.Builder
 	sb.WriteString(StartMarker + "\n")
 	
@@ -141,19 +134,21 @@ func main() {
 		sb.WriteString(fmt.Sprintf("Last move: %s in col %d. Next turn: %s\n", currentPlayer, col, nextPlayer))
 	}
 
-	// Table Header
 	sb.WriteString("| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n")
-	sb.WriteString("|:---:|:---:|:---:|:---:|:---:|:---:|:---:|\n") // Center alignment
+	sb.WriteString("|:---:|:---:|:---:|:---:|:---:|:---:|:---:|\n")
 
-	// Board Rows
 	for _, row := range grid {
 		sb.WriteString("| " + strings.Join(row, " | ") + " |\n")
 	}
 
-	// Buttons Row
+	// --- THIS IS THE NEW PART FOR BETTER UX ---
+	friendlyMessage := "👋 **Click 'Submit new issue' below to play your move!**\n\nI am a bot powered by GitHub Actions. I will automatically update the board and close this issue in about 30 seconds."
+	encodedBody := url.QueryEscape(friendlyMessage)
+	
 	sb.WriteString("|")
 	for i := 0; i < Cols; i++ {
-		link := fmt.Sprintf("https://github.com/%s/%s/issues/new?title=connect4%%7C%d&body=Just+push+submit", RepoUser, RepoName, i)
+		// We use the encoded friendly message here
+		link := fmt.Sprintf("https://github.com/%s/%s/issues/new?title=connect4%%7C%d&body=%s", RepoUser, RepoName, i, encodedBody)
 		sb.WriteString(fmt.Sprintf(" [%s](%s) |", "⬇️", link))
 	}
 	sb.WriteString("\n")
