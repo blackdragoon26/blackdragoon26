@@ -12,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=blackdragoon26&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdragoon26&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=blackdragoon26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=blackdragoon26&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -21,5 +19,8 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sankalpjha) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackdragoon26/blackdragoon26/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackdragoon26/blackdragoon26/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackdragoon26/blackdragoon26/output/github-contribution-grid-snake.svg">
+</picture>
