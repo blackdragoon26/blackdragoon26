@@ -1,0 +1,46 @@
+name: Connect 4 Go
+
+on:
+  issues:
+    types: [opened]
+
+concurrency:
+  group: connect4-game
+  cancel-in-progress: false
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'connect4|')
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21' # Using a stable version
+          
+      - name: Run Game Logic
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        # Runs the Go file directly (Go compiles fast enough to run like a script)
+        run: go run connect4.go
+
+      - name: Commit Changes
+        run: |
+          git config user.name "Connect4 Bot"
+          git config user.email "actions@github.com"
+          git add README.md
+          # Fail silently if nothing changed (e.g. invalid move)
+          git commit -m "Update Connect 4 Board" || exit 0
+          git push
+
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "Move processed by Go! Check the README."
