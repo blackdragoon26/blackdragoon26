@@ -16,10 +16,12 @@ const (
 	StartMarker  = ""
 	EndMarker    = ""
 	ReadmeFile   = "README.md"
+	RepoUser     = "blackdragoon26" // Change this if your user/repo changes
+	RepoName     = "blackdragoon26"
 )
 
 func main() {
-	// 1. Get Move from Environment Variable
+	// 1. Get Move
 	title := os.Getenv("ISSUE_TITLE")
 	if !strings.HasPrefix(title, "connect4|") {
 		fmt.Println("Not a game issue. Exiting.")
@@ -40,7 +42,7 @@ func main() {
 	}
 	content := string(contentBytes)
 
-	// 3. Extract Board
+	// 3. Extract Board Section
 	startIndex := strings.Index(content, StartMarker)
 	endIndex := strings.Index(content, EndMarker)
 	if startIndex == -1 || endIndex == -1 {
@@ -48,28 +50,45 @@ func main() {
 	}
 
 	boardSection := content[startIndex+len(StartMarker) : endIndex]
-	boardLines := strings.Split(strings.TrimSpace(boardSection), "\n")
-	
-	// Skip the first line (status message)
-	if len(boardLines) > 0 && strings.Contains(boardLines[0], "Last move:") {
-		boardLines = boardLines[1:]
-	}
+	lines := strings.Split(strings.TrimSpace(boardSection), "\n")
 
-	// Parse Grid
-	grid := make([][]string, Rows)
-	for r := 0; r < Rows; r++ {
-		// Split by space to handle emojis correctly
-		rowItems := strings.Fields(boardLines[r])
-		// Ensure row has correct width (padding if needed)
-		if len(rowItems) < Cols {
-			for i := len(rowItems); i < Cols; i++ {
-				rowItems = append(rowItems, Empty)
+	// 4. Parse Grid from Markdown Table
+	grid := make([][]string, 0)
+	
+	// We scan lines to find the actual rows with emojis
+	for _, line := range lines {
+		// Clean the line of pipes
+		cleanLine := strings.ReplaceAll(line, "|", " ")
+		items := strings.Fields(cleanLine)
+
+		// Heuristic: A valid game row has exactly 7 items and contains our game pieces
+		// We skip headers (1 2 3), separators (---), and button rows (⬇️)
+		if len(items) == Cols {
+			isGameRow := true
+			for _, item := range items {
+				if item != Empty && item != PlayerRed && item != PlayerYellow {
+					isGameRow = false
+					break
+				}
+			}
+			if isGameRow {
+				grid = append(grid, items)
 			}
 		}
-		grid[r] = rowItems
 	}
 
-	// 4. Determine Player Turn
+	// Safety check if grid read failed
+	if len(grid) != Rows {
+		fmt.Println("Error reading grid. Found rows:", len(grid))
+		// Fallback: Create empty board if parsing fails entirely to prevent crash
+		if len(grid) == 0 {
+			grid = resetBoard()
+		} else {
+			os.Exit(1)
+		}
+	}
+
+	// 5. Determine Player Turn
 	redCount, yellowCount := 0, 0
 	for _, row := range grid {
 		for _, cell := range row {
@@ -86,7 +105,7 @@ func main() {
 		currentPlayer = PlayerYellow
 	}
 
-	// 5. Execute Move (Drop Piece)
+	// 6. Execute Move
 	placed := false
 	for r := Rows - 1; r >= 0; r-- {
 		if grid[r][col] == Empty {
@@ -98,39 +117,50 @@ func main() {
 
 	if !placed {
 		fmt.Println("Column full. No move made.")
-		os.Exit(0)
+		os.Exit(0) // Exit success so action doesn't fail, but nothing changes
 	}
 
-	// 6. Check Win (Simplified Logic)
+	// 7. Check Win
 	winner := ""
 	if checkWin(grid, currentPlayer) {
 		winner = currentPlayer
 	}
 
-	// 7. Reconstruct Board String
-	var newBoardStr strings.Builder
-	newBoardStr.WriteString(StartMarker + "\n")
+	// 8. Reconstruct Output (The Pretty Table)
+	var sb strings.Builder
+	sb.WriteString(StartMarker + "\n")
 	
 	if winner != "" {
-		newBoardStr.WriteString(fmt.Sprintf("**GAME OVER! %s WINS! Resetting board...**\n", winner))
-		// Reset Grid Logic could go here, but let's just show the win for now
-		// To auto-reset, just overwrite 'grid' with empty rows before printing
+		sb.WriteString(fmt.Sprintf("**GAME OVER! %s WINS! Resetting board...**\n", winner))
 		grid = resetBoard()
 	} else {
 		nextPlayer := PlayerYellow
 		if currentPlayer == PlayerYellow {
 			nextPlayer = PlayerRed
 		}
-		newBoardStr.WriteString(fmt.Sprintf("Last move: %s in col %d. Next turn: %s\n", currentPlayer, col, nextPlayer))
+		sb.WriteString(fmt.Sprintf("Last move: %s in col %d. Next turn: %s\n", currentPlayer, col, nextPlayer))
 	}
 
+	// Table Header
+	sb.WriteString("| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n")
+	sb.WriteString("|:---:|:---:|:---:|:---:|:---:|:---:|:---:|\n") // Center alignment
+
+	// Board Rows
 	for _, row := range grid {
-		newBoardStr.WriteString(strings.Join(row, " ") + "\n")
+		sb.WriteString("| " + strings.Join(row, " | ") + " |\n")
 	}
-	newBoardStr.WriteString(EndMarker)
 
-	// 8. Write Back to File
-	newContent := content[:startIndex] + newBoardStr.String() + content[endIndex+len(EndMarker):]
+	// Buttons Row
+	sb.WriteString("|")
+	for i := 0; i < Cols; i++ {
+		link := fmt.Sprintf("https://github.com/%s/%s/issues/new?title=connect4%%7C%d&body=Just+push+submit", RepoUser, RepoName, i)
+		sb.WriteString(fmt.Sprintf(" [%s](%s) |", "⬇️", link))
+	}
+	sb.WriteString("\n")
+	sb.WriteString(EndMarker)
+
+	// 9. Write File
+	newContent := content[:startIndex] + sb.String() + content[endIndex+len(EndMarker):]
 	err = os.WriteFile(ReadmeFile, []byte(newContent), 0644)
 	if err != nil {
 		panic(err)
@@ -139,7 +169,6 @@ func main() {
 }
 
 func checkWin(grid [][]string, p string) bool {
-	// Horizontal, Vertical, Diagonal Check
 	for r := 0; r < Rows; r++ {
 		for c := 0; c < Cols; c++ {
 			if grid[r][c] == p {
