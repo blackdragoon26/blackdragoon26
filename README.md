@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Atheism is a non-prophet organisation.
 ## About Me:
 I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
