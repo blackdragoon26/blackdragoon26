@@ -1,16 +1,5 @@
-
-Last move: 🔴 in col 3. Next turn: 🟡
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | ⚪ | ⚪ |
-| [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C0&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C1&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C2&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C3&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C4&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C5&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C6&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) |
 # 💫 About Me:
- I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
+Working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s.2602) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankalpinada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-jha-18a95a244/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SankalpJha26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalp.jha9643@gmail.com) 
@@ -23,12 +12,11 @@ Last move: 🔴 in col 3. Next turn: 🟡
 ![](https://nirzak-streak-stats.vercel.app/?user=blackdragoon26&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdragoon26&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=blackdragoon26&icon=0&color=0)](https://visitcount.itsvg.in)
 
- ## 💰 You can help me by Donating
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sankalpjha) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sankalpjha) 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackdragoon26/blackdragoon26/output/github-contribution-grid-snake-dark.svg">
@@ -48,4 +36,4 @@ Last move: None. Next turn: 🔴
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C0&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C1&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C2&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C3&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C4&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C5&body=Just+push+submit) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C6&body=Just+push+submit) |
+| [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C0&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C1&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C2&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C3&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C4&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C5&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) | [⬇️](https://github.com/blackdragoon26/blackdragoon26/issues/new?title=connect4%7C6&body=%F0%9F%91%8B+%2A%2AClick+%27Submit+new+issue%27+below+to+play+your+move%21%2A%2A%0A%0AI+am+a+bot+powered+by+GitHub+Actions.+I+will+automatically+update+the+board+and+close+this+issue+in+about+30+seconds.) |
