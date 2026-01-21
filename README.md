@@ -1,3 +1,6 @@
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Atheism is a non-prophet organisation.
 ## About Me:
 I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
 
