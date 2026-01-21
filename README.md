@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > What animal is always at a game of cricket? A bat.
 ## About Me:
 I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
