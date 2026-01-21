@@ -1,10 +1,13 @@
-
+<!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+<!-- DADJOKE_END -->
 
-### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What animal is always at a game of cricket? A bat.
-## About Me:
+
+I know you laughed, now pay up 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sankalpjha)
+
+## Anyways, about me:
 I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
 
 ## Socials:
@@ -18,5 +21,3 @@ I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Arch
 ![](https://nirzak-streak-stats.vercel.app/?user=blackdragoon26&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackdragoon26&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## I know you laughed, now pay up
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sankalpjha)
