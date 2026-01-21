@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day:
+> How many tickles does it take to tickle an octopus? Ten-tickles!
+
+### Worst Dad Joke of the day:
 > What do you call someone with no nose? Nobody knows.
 # 💫 About Me:
 I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
