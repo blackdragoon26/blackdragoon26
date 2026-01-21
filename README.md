@@ -1,3 +1,6 @@
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> What animal is always at a game of cricket? A bat.
 ## About Me:
 I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
 
