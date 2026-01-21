@@ -11,7 +11,6 @@ import (
 
 const (
 	ReadmeFile  = "README.md"
-	// FIXED: Added actual marker text so script knows where to look
 	StartMarker = ""
 	EndMarker   = ""
 	ApiURL      = "https://icanhazdadjoke.com/"
@@ -55,14 +54,21 @@ func main() {
 	}
 	content := string(contentBytes)
 
-	// 3. Find Markers
+	// 3. Find Markers (Robust Way)
 	startIndex := strings.Index(content, StartMarker)
-	endIndex := strings.Index(content, EndMarker)
-
-	if startIndex == -1 || endIndex == -1 {
-		fmt.Println("Markers not found in README.md")
+	if startIndex == -1 {
+		fmt.Println("Start marker not found in README.md")
 		os.Exit(1)
 	}
+
+	// Look for the End marker ONLY after the Start marker
+	restOfContent := content[startIndex:]
+	endIndexOffset := strings.Index(restOfContent, EndMarker)
+	if endIndexOffset == -1 {
+		fmt.Println("End marker not found in README.md")
+		os.Exit(1)
+	}
+	endIndex := startIndex + endIndexOffset
 
 	// 4. Construct New Content
 	newSection := fmt.Sprintf("%s\n### Worst Dad Joke of the day ￣\\_(ツ)_/￣ \n> %s\n%s", StartMarker, data.Joke, EndMarker)
