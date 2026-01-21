@@ -14,7 +14,8 @@ const (
 	Empty        = "⚪"
 	PlayerRed    = "🔴"
 	PlayerYellow = "🟡"
-	// CHANGED MARKERS TO AVOID CONFLICT WITH OLD TAGS
+	// We stick to the standard markers. 
+	// The script logic change below will fix the position issue.
 	StartMarker  = ""
 	EndMarker    = ""
 	ReadmeFile   = "README.md"
@@ -45,15 +46,22 @@ func main() {
 	content := string(contentBytes)
 
 	// 3. Extract Board Section
-	startIndex := strings.Index(content, StartMarker)
-	endIndex := strings.Index(content, EndMarker)
+	// CRITICAL FIX: Use LastIndex to find the board at the BOTTOM of the file
+	// This ignores any broken/ghost markers stuck at the top.
+	startIndex := strings.LastIndex(content, StartMarker)
 	
-	if startIndex == -1 || endIndex == -1 {
-		// SAFETY FALLBACK: If new markers aren't found, try old ones just in case user didn't update README yet
-		// This helps prevents crashing, but ideally, you update the README immediately.
-		fmt.Println("New markers not found. Please update README with ")
+	if startIndex == -1 {
+		fmt.Println("Markers not found. Please ensure is in README.")
 		os.Exit(1)
 	}
+
+	// Find the EndMarker that comes AFTER the StartMarker we found
+	rest OfContent := content[startIndex:]
+	endIndexOffset := strings.Index(restOfContent, EndMarker)
+	if endIndexOffset == -1 {
+		panic("Start marker found but End marker missing")
+	}
+	endIndex := startIndex + endIndexOffset
 
 	boardSection := content[startIndex+len(StartMarker) : endIndex]
 	lines := strings.Split(strings.TrimSpace(boardSection), "\n")
@@ -78,15 +86,10 @@ func main() {
 	}
 
 	if len(grid) != Rows {
-		if len(grid) == 0 {
-			grid = resetBoard()
-		} else {
-			// If grid is corrupted, reset it rather than failing
-			grid = resetBoard()
-		}
+		grid = resetBoard()
 	}
 
-	// 5. Determine Turn
+	// 5. Determine Player Turn
 	redCount, yellowCount := 0, 0
 	for _, row := range grid {
 		for _, cell := range row {
@@ -124,7 +127,7 @@ func main() {
 		winner = currentPlayer
 	}
 
-	// 8. Output Construction
+	// 8. Reconstruct Output
 	var sb strings.Builder
 	sb.WriteString(StartMarker + "\n")
 	
