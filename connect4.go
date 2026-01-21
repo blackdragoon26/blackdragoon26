@@ -56,7 +56,7 @@ func main() {
 	}
 
 	// Find the EndMarker that comes AFTER the StartMarker we found
-	rest OfContent := content[startIndex:]
+	restOfContent := content[startIndex:]
 	endIndexOffset := strings.Index(restOfContent, EndMarker)
 	if endIndexOffset == -1 {
 		panic("Start marker found but End marker missing")
