@@ -1,0 +1,32 @@
+name: Daily Dad Joke (Go)
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+          
+      - name: Run Script
+        run: go run main.go
+        
+      - name: Commit Changes
+        run: |
+          git config user.name "Dad Joke Bot"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update Dad Joke" || exit 0
+          git push
