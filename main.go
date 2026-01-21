@@ -11,6 +11,7 @@ import (
 
 const (
 	ReadmeFile  = "README.md"
+	// FIXED: Added actual marker text so script knows where to look
 	StartMarker = ""
 	EndMarker   = ""
 	ApiURL      = "https://icanhazdadjoke.com/"
@@ -30,7 +31,6 @@ func main() {
 		panic(err)
 	}
 
-	// This header is required to get JSON instead of HTML
 	req.Header.Set("Accept", "application/json")
 	req.Header.Set("User-Agent", "GitHub Readme Bot (https://github.com/blackdragoon26/blackdragoon26)")
 
@@ -65,8 +65,7 @@ func main() {
 	}
 
 	// 4. Construct New Content
-	// We keep the markers so the script can run again tomorrow
-	newSection := fmt.Sprintf("%s\n### Worst Dad Joke of the day:\n> %s\n%s", StartMarker, data.Joke, EndMarker)
+	newSection := fmt.Sprintf("%s\n### Worst Dad Joke of the day ￣\\_(ツ)_/￣ \n> %s\n%s", StartMarker, data.Joke, EndMarker)
 
 	// Replace the old part with the new part
 	newContent := content[:startIndex] + newSection + content[endIndex+len(EndMarker):]
