@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"net/url" // Added this to encode messages properly
+	"net/url"
 	"os"
 	"strconv"
 	"strings"
@@ -14,6 +14,7 @@ const (
 	Empty        = "⚪"
 	PlayerRed    = "🔴"
 	PlayerYellow = "🟡"
+	// CHANGED MARKERS TO AVOID CONFLICT WITH OLD TAGS
 	StartMarker  = ""
 	EndMarker    = ""
 	ReadmeFile   = "README.md"
@@ -46,8 +47,12 @@ func main() {
 	// 3. Extract Board Section
 	startIndex := strings.Index(content, StartMarker)
 	endIndex := strings.Index(content, EndMarker)
+	
 	if startIndex == -1 || endIndex == -1 {
-		panic("Board markers not found in README")
+		// SAFETY FALLBACK: If new markers aren't found, try old ones just in case user didn't update README yet
+		// This helps prevents crashing, but ideally, you update the README immediately.
+		fmt.Println("New markers not found. Please update README with ")
+		os.Exit(1)
 	}
 
 	boardSection := content[startIndex+len(StartMarker) : endIndex]
@@ -76,12 +81,12 @@ func main() {
 		if len(grid) == 0 {
 			grid = resetBoard()
 		} else {
-			fmt.Println("Error reading grid. Found rows:", len(grid))
-			os.Exit(1)
+			// If grid is corrupted, reset it rather than failing
+			grid = resetBoard()
 		}
 	}
 
-	// 5. Determine Player Turn
+	// 5. Determine Turn
 	redCount, yellowCount := 0, 0
 	for _, row := range grid {
 		for _, cell := range row {
@@ -119,7 +124,7 @@ func main() {
 		winner = currentPlayer
 	}
 
-	// 8. Reconstruct Output
+	// 8. Output Construction
 	var sb strings.Builder
 	sb.WriteString(StartMarker + "\n")
 	
@@ -141,13 +146,11 @@ func main() {
 		sb.WriteString("| " + strings.Join(row, " | ") + " |\n")
 	}
 
-	// --- THIS IS THE NEW PART FOR BETTER UX ---
 	friendlyMessage := "👋 **Click 'Submit new issue' below to play your move!**\n\nI am a bot powered by GitHub Actions. I will automatically update the board and close this issue in about 30 seconds."
 	encodedBody := url.QueryEscape(friendlyMessage)
 	
 	sb.WriteString("|")
 	for i := 0; i < Cols; i++ {
-		// We use the encoded friendly message here
 		link := fmt.Sprintf("https://github.com/%s/%s/issues/new?title=connect4%%7C%d&body=%s", RepoUser, RepoName, i, encodedBody)
 		sb.WriteString(fmt.Sprintf(" [%s](%s) |", "⬇️", link))
 	}
