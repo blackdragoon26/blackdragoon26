@@ -1,3 +1,6 @@
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
