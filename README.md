@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> You will never guess what Elsa did to the balloon. She let it go.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
