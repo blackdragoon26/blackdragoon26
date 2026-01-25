@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> I got an A on my origami assignment when I turned my paper into my teacher
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > You will never guess what Elsa did to the balloon. She let it go.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
