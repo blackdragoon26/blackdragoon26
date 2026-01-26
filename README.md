@@ -1,5 +1,10 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> What is the difference between ignorance and apathy?
+
+I don't know and I don't care.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > I got an A on my origami assignment when I turned my paper into my teacher
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
