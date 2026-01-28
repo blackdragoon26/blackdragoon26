@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> What do you call an old snowman? Water.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
 
 Doctor: No, humans can never hear that high of a frequency no matter what age they are.
