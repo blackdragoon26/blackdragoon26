@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Why are skeletons so calm? Because nothing gets under their skin.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > What do you call an old snowman? Water.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
