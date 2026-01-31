@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Why did the teddy bear say “no” to dessert? Because she was stuffed.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
