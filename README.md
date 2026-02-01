@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Why did the teddy bear say “no” to dessert? Because she was stuffed.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
