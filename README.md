@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > What did the ocean say to the beach? Thanks for all the sediment.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
