@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> There are two types of people in this world, those who can extrapolate from incomplete data...
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Dad, can you put my shoes on? I don't think they'll fit me.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
