@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > There are two types of people in this world, those who can extrapolate from incomplete data...
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
