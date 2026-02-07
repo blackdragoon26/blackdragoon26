@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
