@@ -1,5 +1,9 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Why don't you find hippopotamuses hiding in trees?
+They're really good at it.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
