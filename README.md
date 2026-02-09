@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> What did one nut say as he chased another nut?  I'm a cashew!
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Why don't you find hippopotamuses hiding in trees?
 They're really good at it.
 
