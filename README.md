@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> I think circles are pointless.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > What did one nut say as he chased another nut?  I'm a cashew!
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
