@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Why are pirates called pirates? Because they arrr!
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > I think circles are pointless.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
