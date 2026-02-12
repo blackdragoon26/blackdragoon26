@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Why are pirates called pirates? Because they arrr!
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
