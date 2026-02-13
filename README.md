@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> Where does batman go to the bathroom? The batroom.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
