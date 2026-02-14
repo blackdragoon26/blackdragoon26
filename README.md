@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> I was wondering why the frisbee was getting bigger, then it hit me.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > Where does batman go to the bathroom? The batroom.
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
