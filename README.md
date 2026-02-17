@@ -1,5 +1,8 @@
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> What do you call a bee that lives in America? A USB.
+
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
 > I got an A on my origami assignment when I turned my paper into my teacher
 
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
