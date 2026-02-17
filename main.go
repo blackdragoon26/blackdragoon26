@@ -11,8 +11,8 @@ import (
 
 const (
 	ReadmeFile  = "README.md"
-	StartMarker = ""
-	EndMarker   = ""
+	StartMarker = "<!-- DADJOKE_START -->"
+	EndMarker   = "<!-- DADJOKE_END -->"
 	ApiURL      = "https://icanhazdadjoke.com/"
 )
 
