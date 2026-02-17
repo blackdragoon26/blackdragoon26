@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 <!-- DADJOKE_END -->
 
 
