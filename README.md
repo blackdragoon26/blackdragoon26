@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 <!-- DADJOKE_END -->
 
 
