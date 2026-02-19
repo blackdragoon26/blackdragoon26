@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I tried to milk a cow today, but was unsuccessful. Udder failure.
+> How do locomotives know where they're going? Lots of training
 <!-- DADJOKE_END -->
 
 
