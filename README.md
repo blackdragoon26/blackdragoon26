@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How do locomotives know where they're going? Lots of training
+> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
 <!-- DADJOKE_END -->
 
 
