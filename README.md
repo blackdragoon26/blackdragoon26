@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.
+> How many bones are in the human hand? A handful of them.
 <!-- DADJOKE_END -->
 
 
