@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+> Why are skeletons so calm? Because nothing gets under their skin.
 <!-- DADJOKE_END -->
 
 
