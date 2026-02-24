@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why are skeletons so calm? Because nothing gets under their skin.
+> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
 <!-- DADJOKE_END -->
 
 
