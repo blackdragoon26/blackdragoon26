@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 <!-- DADJOKE_END -->
 
 
