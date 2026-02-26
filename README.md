@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> Why did the tree go to the dentist? It needed a root canal.
 <!-- DADJOKE_END -->
 
 
