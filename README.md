@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the tree go to the dentist? It needed a root canal.
+> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 <!-- DADJOKE_END -->
 
 
