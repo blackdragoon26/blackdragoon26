@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 <!-- DADJOKE_END -->
 
 
