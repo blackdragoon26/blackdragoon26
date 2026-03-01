@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 <!-- DADJOKE_END -->
 
 
