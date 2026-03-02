@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> People are shocked to discover I have a police record but I love their greatest hits!
 <!-- DADJOKE_END -->
 
 
