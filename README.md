@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> People are shocked to discover I have a police record but I love their greatest hits!
+> What did the beaver say to the tree? It's been nice gnawing you.
 <!-- DADJOKE_END -->
 
 
