@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why does a chicken coop only have two doors? Because if it had four doors it would be a chicken sedan.
+> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 <!-- DADJOKE_END -->
 
 
