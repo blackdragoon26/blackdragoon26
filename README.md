@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 <!-- DADJOKE_END -->
 
 
