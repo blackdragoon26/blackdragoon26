@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> What is this movie about? It is about 2 hours long.
 <!-- DADJOKE_END -->
 
 
