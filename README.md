@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What is this movie about? It is about 2 hours long.
+> Why did the banana go to the doctor? He was not "peeling" well.
 <!-- DADJOKE_END -->
 
 
