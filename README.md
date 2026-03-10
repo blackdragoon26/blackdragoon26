@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the banana go to the doctor? He was not "peeling" well.
+> Have you ever heard of a music group called Cellophane? They mostly wrap.
 <!-- DADJOKE_END -->
 
 
