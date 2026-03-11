@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Have you ever heard of a music group called Cellophane? They mostly wrap.
+> I was in an 80's band called the prevention. We were better than the cure.
 <!-- DADJOKE_END -->
 
 
