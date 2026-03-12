@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I was in an 80's band called the prevention. We were better than the cure.
+> Dad I’m hungry’ … ‘Hi hungry I’m dad
 <!-- DADJOKE_END -->
 
 
