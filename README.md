@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 <!-- DADJOKE_END -->
 
 
