@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I always wanted to look into why I procrastinate, but I keep putting it off. 
+> Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
 <!-- DADJOKE_END -->
 
 
