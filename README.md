@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+> A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 <!-- DADJOKE_END -->
 
 
