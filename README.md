@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
+> How many apples grow on a tree? All of them!
 <!-- DADJOKE_END -->
 
 
