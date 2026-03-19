@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How many apples grow on a tree? All of them!
+> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 <!-- DADJOKE_END -->
 
 
