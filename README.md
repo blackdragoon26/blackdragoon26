@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
+> What do you get when you cross a pig and a pineapple? A porky pine
 <!-- DADJOKE_END -->
 
 
