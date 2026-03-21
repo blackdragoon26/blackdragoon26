@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you get when you cross a pig and a pineapple? A porky pine
+> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 <!-- DADJOKE_END -->
 
 
