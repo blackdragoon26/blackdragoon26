@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+> I made a belt out of watches once... It was a waist of time.
 <!-- DADJOKE_END -->
 
 
