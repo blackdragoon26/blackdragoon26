@@ -1,6 +1,8 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> You know what they say about cliffhangers...
+> What did the hat say to the scarf?
+You can hang around. I'll just go on ahead.
+
 <!-- DADJOKE_END -->
 
 
