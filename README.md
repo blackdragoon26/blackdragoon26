@@ -1,8 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the hat say to the scarf?
-You can hang around. I'll just go on ahead.
-
+> Camping is intense.
 <!-- DADJOKE_END -->
 
 
