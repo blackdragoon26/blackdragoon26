@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Camping is intense.
+> Leather is great for sneaking around because it's made of hide.
 <!-- DADJOKE_END -->
 
 
