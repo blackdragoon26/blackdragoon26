@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Leather is great for sneaking around because it's made of hide.
+> What do you give a sick lemon? Lemonaid.
 <!-- DADJOKE_END -->
 
 
