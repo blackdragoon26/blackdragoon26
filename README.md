@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Egyptians claimed to invent the guitar, but they were such lyres.﻿
+> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 <!-- DADJOKE_END -->
 
 
