@@ -1,6 +1,8 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+> Why did Mozart kill all his chickens?
+Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
+
 <!-- DADJOKE_END -->
 
 
