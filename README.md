@@ -1,8 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did Mozart kill all his chickens?
-Because when he asked them who the best composer was, they'd all say "Bach bach bach!"
-
+> Why do we tell actors to “break a leg?” Because every play has a cast.
 <!-- DADJOKE_END -->
 
 
