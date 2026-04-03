@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why do we tell actors to “break a leg?” Because every play has a cast.
+> Ever wondered why bees hum? It's because they don't know the words.
 <!-- DADJOKE_END -->
 
 
