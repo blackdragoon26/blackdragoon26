@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Have you heard about corduroy pillows?  They're making headlines!
+> What do you give a sick lemon? Lemonaid.
 <!-- DADJOKE_END -->
 
 
