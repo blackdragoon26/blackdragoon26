@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you give a sick lemon? Lemonaid.
+> What do you call two guys hanging out by your window? Kurt & Rod.
 <!-- DADJOKE_END -->
 
 
