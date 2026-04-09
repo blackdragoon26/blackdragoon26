@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 <!-- DADJOKE_END -->
 
 
