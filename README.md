@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I wouldn't buy anything with velcro. It's a total rip-off.
+> Why did the scarecrow win an award? Because he was outstanding in his field.
 <!-- DADJOKE_END -->
 
 
