@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 <!-- DADJOKE_END -->
 
 
