@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 <!-- DADJOKE_END -->
 
 
