@@ -12,8 +12,9 @@ I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Arch
 
 ## Wall of Fame
 1. [<b>Los-Tecnicos</b>](https://los-tecnicos.vercel.app/): A Decentralized Energy Grid on [Stellar](https://stellar.org/) Ecosystem which will turn energy into Tokenized Assets, and Energy into Stable Income.
-<br>Repo: https://github.com/blackdragoon26/Los-Tecnicos
-2. 
+<br>Repo: https://github.com/blackdragoon26/Los-Tecnicos , a super cool residency [project](https://www.linkedin.com/posts/sankalp-jha-18a95a244_at-mcleod-residency-program-of-stellar-development-activity-7435258958967336961--0bG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADynRXoByTKgoc9YS3dOMkn3RoKHYUfZ2oI)
+2. [<b>DMIE</b>](https://www.doesmyideaexist.com/): A simple solution to every person's question, does my idea already exists, and also get your idea's comparative analysis of existing competition as we scraped and built on 500,000 Indian Startups.
+<br>Private Repo in Collab with a Cracked [DevFriend](https://www.linkedin.com/in/krishna-bansal-a82a68254/) of mine.
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s.2602) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankalpinada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-jha-18a95a244/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SankalpJha26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalp.jha9643@gmail.com) 
