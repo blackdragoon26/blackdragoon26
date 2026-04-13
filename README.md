@@ -10,6 +10,11 @@ I know you laughed, now pay up
 ## Anyways, about me:
 I’m currently working on GoLang and P4.<br>Aspiring DevSecOps and Network Architect!
 
+## Wall of Fame
+1. [<b>Los-Tecnicos</b>](https://los-tecnicos.vercel.app/): A Decentralized Energy Grid on [Stellar](https://stellar.org/) Ecosystem which will turn energy into Tokenized Assets, and Energy into Stable Income.
+<br>Repo: https://github.com/blackdragoon26/Los-Tecnicos
+2. 
+
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s.2602) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankalpinada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-jha-18a95a244/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SankalpJha26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalp.jha9643@gmail.com) 
 
