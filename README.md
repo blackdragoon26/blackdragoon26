@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+> Just read a few facts about frogs. They were ribbiting.
 <!-- DADJOKE_END -->
 
 
