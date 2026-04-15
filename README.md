@@ -1,6 +1,6 @@
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Just read a few facts about frogs. They were ribbiting.
+> I tried to write a chemistry joke, but could never get a reaction.
 <!-- DADJOKE_END -->
 
 
