@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 <!-- DADJOKE_END -->
 
 
