@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 <!-- DADJOKE_END -->
 
 
