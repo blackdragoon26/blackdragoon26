@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+> How does a dyslexic poet write? Inverse.
 <!-- DADJOKE_END -->
 
 
