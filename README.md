@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How does a dyslexic poet write? Inverse.
+> How do locomotives know where they're going? Lots of training
 <!-- DADJOKE_END -->
 
 
