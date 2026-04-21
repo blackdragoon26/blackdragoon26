@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How do locomotives know where they're going? Lots of training
+> What did the late tomato say to the early tomato? I’ll ketch up
 <!-- DADJOKE_END -->
 
 
