@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the late tomato say to the early tomato? I’ll ketch up
+> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 <!-- DADJOKE_END -->
 
 
