@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+> Why do bees hum? Because they don't know the words.
 <!-- DADJOKE_END -->
 
 
