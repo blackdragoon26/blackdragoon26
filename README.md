@@ -3,8 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What's the difference between a seal and a sea lion?
-An ion! 
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 <!-- DADJOKE_END -->
 
 
