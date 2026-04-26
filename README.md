@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 <!-- DADJOKE_END -->
 
 
