@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+> How do you know if there’s an elephant under your bed? Your head hits the ceiling!
 <!-- DADJOKE_END -->
 
 
