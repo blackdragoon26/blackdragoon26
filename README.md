@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+> What do you call an elephant that doesn’t matter? An irrelephant.
 <!-- DADJOKE_END -->
 
 
