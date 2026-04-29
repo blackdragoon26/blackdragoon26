@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call an elephant that doesn’t matter? An irrelephant.
+> What do you call a troublesome Canadian high schooler? A poutine.
 <!-- DADJOKE_END -->
 
 
