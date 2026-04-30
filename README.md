@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call a troublesome Canadian high schooler? A poutine.
+> I am terrified of elevators. I’m going to start taking steps to avoid them.
 <!-- DADJOKE_END -->
 
 
