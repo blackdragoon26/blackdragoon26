@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I am terrified of elevators. I’m going to start taking steps to avoid them.
+> The urge to sing the Lion King song is just a whim away.
 <!-- DADJOKE_END -->
 
 
