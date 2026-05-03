@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Milk is also the fastest liquid on earth – its pasteurized before you even see it
+> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
 <!-- DADJOKE_END -->
 
 
