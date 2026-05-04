@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+> A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 <!-- DADJOKE_END -->
 
 
