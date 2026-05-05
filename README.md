@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
 <!-- DADJOKE_END -->
 
 
