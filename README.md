@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+> What is the tallest building in the world? The library – it’s got the most stories!
 <!-- DADJOKE_END -->
 
 
