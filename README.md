@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What is the tallest building in the world? The library – it’s got the most stories!
+> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 <!-- DADJOKE_END -->
 
 
