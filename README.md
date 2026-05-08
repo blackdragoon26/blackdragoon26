@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
+> What do you call two barracuda fish?  A Pairacuda!
 <!-- DADJOKE_END -->
 
 
