@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call two barracuda fish?  A Pairacuda!
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 <!-- DADJOKE_END -->
 
 
