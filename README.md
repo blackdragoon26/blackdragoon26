@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> "I'll call you later." Don't call me later, call me Dad.
 <!-- DADJOKE_END -->
 
 
