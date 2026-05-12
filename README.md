@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+> I got an A on my origami assignment when I turned my paper into my teacher
 <!-- DADJOKE_END -->
 
 
