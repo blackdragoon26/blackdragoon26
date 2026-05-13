@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I got an A on my origami assignment when I turned my paper into my teacher
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 <!-- DADJOKE_END -->
 
 
