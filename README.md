@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> It's difficult to say what my wife does, she sells sea shells by the sea shore.
+> A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 <!-- DADJOKE_END -->
 
 
