@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> If you’re struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
+> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 <!-- DADJOKE_END -->
 
 
