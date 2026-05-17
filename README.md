@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
+> What did one snowman say to the other snow man? Do you smell carrot?
 <!-- DADJOKE_END -->
 
 
