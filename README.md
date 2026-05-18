@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did one snowman say to the other snow man? Do you smell carrot?
+> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 <!-- DADJOKE_END -->
 
 
