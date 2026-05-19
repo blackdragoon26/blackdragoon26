@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+> What was a more important invention than the first telephone? The second one.
 <!-- DADJOKE_END -->
 
 
