@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What was a more important invention than the first telephone? The second one.
+> Is there a hole in your shoe? No… Then how’d you get your foot in it?
 <!-- DADJOKE_END -->
 
 
