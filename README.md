@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Is there a hole in your shoe? No… Then how’d you get your foot in it?
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 <!-- DADJOKE_END -->
 
 
