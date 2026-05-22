@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> How can you tell a vampire has a cold? They start coffin.
 <!-- DADJOKE_END -->
 
 
