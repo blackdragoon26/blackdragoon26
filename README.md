@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I invented a new word! Plagiarism!
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 <!-- DADJOKE_END -->
 
 
