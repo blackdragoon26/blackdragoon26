@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> How can you tell a vampire has a cold? They start coffin.
 <!-- DADJOKE_END -->
 
 
