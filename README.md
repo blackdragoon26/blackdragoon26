@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How can you tell a vampire has a cold? They start coffin.
+> Coffee has a tough time at my house, every morning it gets mugged.
 <!-- DADJOKE_END -->
 
 
