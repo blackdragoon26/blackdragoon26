@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Coffee has a tough time at my house, every morning it gets mugged.
+> What kind of award did the dentist receive? A little plaque.
 <!-- DADJOKE_END -->
 
 
