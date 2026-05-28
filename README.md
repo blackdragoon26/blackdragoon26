@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What kind of award did the dentist receive? A little plaque.
+> I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 <!-- DADJOKE_END -->
 
 
