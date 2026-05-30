@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+> If I could name myself after any Egyptian god, I'd be Set.
 <!-- DADJOKE_END -->
 
 
