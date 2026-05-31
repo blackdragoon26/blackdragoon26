@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> If I could name myself after any Egyptian god, I'd be Set.
+> Coffee has a tough time at my house, every morning it gets mugged.
 <!-- DADJOKE_END -->
 
 
