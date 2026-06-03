@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What does an angry pepper do? It gets jalapeño face.
+> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 <!-- DADJOKE_END -->
 
 
