@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+> What did the left eye say to the right eye? Between us, something smells!
 <!-- DADJOKE_END -->
 
 
