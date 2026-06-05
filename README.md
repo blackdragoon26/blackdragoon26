@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the left eye say to the right eye? Between us, something smells!
+> What kind of bagel can fly? A plain bagel.
 <!-- DADJOKE_END -->
 
 
