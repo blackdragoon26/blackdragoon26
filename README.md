@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What kind of bagel can fly? A plain bagel.
+> What's blue and not very heavy?  Light blue.
 <!-- DADJOKE_END -->
 
 
