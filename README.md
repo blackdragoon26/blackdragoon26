@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What's blue and not very heavy?  Light blue.
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 <!-- DADJOKE_END -->
 
 
