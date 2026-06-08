@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why do nurses carry around red crayons? Sometimes they need to draw blood.
+> I boiled a funny bone last night and had a laughing stock
 <!-- DADJOKE_END -->
 
 
