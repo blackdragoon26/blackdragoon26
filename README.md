@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I boiled a funny bone last night and had a laughing stock
+> which flower is most fierce? Dandelion
 <!-- DADJOKE_END -->
 
 
