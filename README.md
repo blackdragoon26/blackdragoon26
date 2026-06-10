@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> which flower is most fierce? Dandelion
+> The first time I got a universal remote control I thought to myself, "This changes everything"
 <!-- DADJOKE_END -->
 
 
