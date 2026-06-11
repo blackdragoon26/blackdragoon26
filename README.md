@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> What do you do when your bunny gets wet? You get your hare dryer.
 <!-- DADJOKE_END -->
 
 
