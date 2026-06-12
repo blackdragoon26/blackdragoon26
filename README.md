@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you do when your bunny gets wet? You get your hare dryer.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 <!-- DADJOKE_END -->
 
 
