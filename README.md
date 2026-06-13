@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I went to the doctor today and he told me I had type A blood but it was a type O.
+> I used to be addicted to soap, but I'm clean now.
 <!-- DADJOKE_END -->
 
 
