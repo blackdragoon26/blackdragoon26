@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I used to be addicted to soap, but I'm clean now.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 <!-- DADJOKE_END -->
 
 
