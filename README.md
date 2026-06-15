@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 <!-- DADJOKE_END -->
 
 
