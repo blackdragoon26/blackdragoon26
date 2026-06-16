@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 <!-- DADJOKE_END -->
 
 
