@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+> A Skeleton walked into a bar he said I need a beer and a mop
 <!-- DADJOKE_END -->
 
 
