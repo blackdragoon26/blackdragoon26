@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> A Skeleton walked into a bar he said I need a beer and a mop
+> What did Yoda say when he saw himself in 4K? "HDMI"
 <!-- DADJOKE_END -->
 
 
