@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 <!-- DADJOKE_END -->
 
 
