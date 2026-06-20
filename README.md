@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> A man tried to sell me a coffin today. I told him that's the last thing I need.
+> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 <!-- DADJOKE_END -->
 
 
