@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 <!-- DADJOKE_END -->
 
 
