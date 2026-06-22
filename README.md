@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> I got an A on my origami assignment when I turned my paper into my teacher
 <!-- DADJOKE_END -->
 
 
