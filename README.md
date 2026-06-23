@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I got an A on my origami assignment when I turned my paper into my teacher
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 <!-- DADJOKE_END -->
 
 
