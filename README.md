@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why is there always a gate around cemeteries? Because people are always dying to get in.
+> What did the dog say to the two trees? Bark bark.
 <!-- DADJOKE_END -->
 
 
