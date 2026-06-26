@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> What do I look like? A JOKE MACHINE!?
 <!-- DADJOKE_END -->
 
 
