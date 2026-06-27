@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do I look like? A JOKE MACHINE!?
+> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 <!-- DADJOKE_END -->
 
 
