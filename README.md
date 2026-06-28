@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+> What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 <!-- DADJOKE_END -->
 
 
