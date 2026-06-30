@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> When do doctors get angry? When they run out of patients.
+> You know that cemetery up the road? People are dying to get in there.
 <!-- DADJOKE_END -->
 
 
