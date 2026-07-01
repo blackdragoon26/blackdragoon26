@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> You know that cemetery up the road? People are dying to get in there.
+> How does the moon cut his hair? Eclipse it.
 <!-- DADJOKE_END -->
 
 
