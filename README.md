@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How does the moon cut his hair? Eclipse it.
+> Who did the wizard marry? His ghoul-friend
 <!-- DADJOKE_END -->
 
 
