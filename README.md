@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Who did the wizard marry? His ghoul-friend
+> I asked a frenchman if he played video games. He said "Wii"
 <!-- DADJOKE_END -->
 
 
