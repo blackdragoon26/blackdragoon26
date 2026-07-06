@@ -3,8 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What is red and smells like blue paint?
-Red paint!
+> Without geometry life is pointless.
 <!-- DADJOKE_END -->
 
 
