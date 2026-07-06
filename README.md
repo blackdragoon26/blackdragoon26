@@ -28,6 +28,14 @@ I am a dynamic OS system's engineer, and I love to delve in the bisection of low
 <br>Live: https://moodish.onrender.com/
 8. [<b>ebpf-mcp-tracer</b>](https://github.com/blackdragoon26/ebpf-mcp-tracer): A secure MCP server which lets LLMs write and run bpftrace scripts against Linux kernel, with strict probe allowlist, dry-run validation and hard timeout, so AI agents can debug system bottlenecks without raw unsafe eBPF access.
 
+## AI (The elixir to doom?)
+
+**I use AI**, there I said it in **Public!**, now that means utilizing them in such maneuvers which help to create value for me and my work.
+
+I experiment different **AIs**, I have **OpenClaw** running on **DeepSeek V3** / (**TBD opencode.ai's Go Plan**), interacting with my **Telegram bot**, hosted on **Oracle's OCI** on their so good **PAYG plan**, and while I actively use different models `Gemini Pro (Extended thinking)`, `ChatGPT Go`, and just to have different opinion and more diversity of Non-US models such as my favourite `Qwen 3.7 Plus`, `DeepSeek V3`, `GLM 5.2 (Z AI)`, `Kimi`, to have blend of thoughts.
+
+btw recently bought **Codex Plus**, so offloading and keeping eyes on those 5 hour / Weekly limit's and ensuring they get dried up all the time :)
+
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s.2602) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sankalpinada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-jha-18a95a244/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SankalpJha26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalp.jha9643@gmail.com) 
 
