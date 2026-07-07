@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Without geometry life is pointless.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 <!-- DADJOKE_END -->
 
 
