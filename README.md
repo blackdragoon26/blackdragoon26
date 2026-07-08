@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> What do you do when your bunny gets wet? You get your hare dryer.
 <!-- DADJOKE_END -->
 
 
