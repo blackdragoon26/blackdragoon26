@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+> Why was the picture sent to prison? It was framed.
 <!-- DADJOKE_END -->
 
 
