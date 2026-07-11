@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why was the picture sent to prison? It was framed.
+> I'll tell you what often gets over looked... garden fences.
 <!-- DADJOKE_END -->
 
 
