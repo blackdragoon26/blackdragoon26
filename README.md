@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you do when your bunny gets wet? You get your hare dryer.
+> How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 <!-- DADJOKE_END -->
 
 
