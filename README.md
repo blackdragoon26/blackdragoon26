@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the tomato blush? Because it saw the salad dressing.
+> The best time on a clock is 6:30--hands down.
 <!-- DADJOKE_END -->
 
 
