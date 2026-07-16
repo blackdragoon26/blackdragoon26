@@ -79,6 +79,7 @@ repo: https://github.com/blackdragoon26/Slix
 live: https://magic-stream-movies-beige.vercel.app/
 stack: React, Go, Azure OpenAI, REST API
 screenshot: auto
+screenshot.wait_seconds: 150
 resume: no
 resume.objective: Combine movie streaming, reviews, and machine-generated sentiment summaries in one full-stack application.
 resume.approach: Built the frontend in React and the service layer in Go || Added Azure OpenAI sentiment analysis for curator reviews
@@ -91,6 +92,7 @@ repo: https://github.com/blackdragoon26/Moodish
 live: https://moodish.onrender.com/
 stack: JavaScript, Node.js, OpenAI API, MCP
 screenshot: auto
+screenshot.wait_seconds: 180
 resume: no
 resume.objective: Rank meal options from a user's craving, budget, and dietary constraints while keeping the recommendation explainable.
 resume.approach: Built intent extraction and deterministic ranking around an AI-generated summary || Added a recommendation trace and confirmation-gated cart preview
