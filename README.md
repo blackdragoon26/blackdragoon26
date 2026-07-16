@@ -45,7 +45,7 @@ repo: https://github.com/blackdragoon26/Do-It
 live: none
 stack: Go, SSE, HTTP, Raspberry Pi, Local-first
 screenshot: auto
-resume: no
+resume: yes
 resume.objective: Provide private, synchronized notes and media across devices on a local network.
 resume.approach: Packaged a lightweight Go SSE and HTTP server for Raspberry Pi, routers, and repurposed phones
 resume.impact: Delivers self-hosted, account-free synchronization without sending household data to a cloud service.
@@ -80,7 +80,7 @@ live: https://magic-stream-movies-beige.vercel.app/
 stack: React, Go, Azure OpenAI, REST API
 screenshot: auto
 screenshot.wait_seconds: 150
-resume: no
+resume: yes
 resume.objective: Combine movie streaming, reviews, and machine-generated sentiment summaries in one full-stack application.
 resume.approach: Built the frontend in React and the service layer in Go || Added Azure OpenAI sentiment analysis for curator reviews
 resume.impact: Gives viewers a concise representation of a movie's tone before watching.
@@ -93,7 +93,7 @@ live: https://moodish.onrender.com/
 stack: JavaScript, Node.js, OpenAI API, MCP
 screenshot: auto
 screenshot.wait_seconds: 180
-resume: no
+resume: yes
 resume.objective: Rank meal options from a user's craving, budget, and dietary constraints while keeping the recommendation explainable.
 resume.approach: Built intent extraction and deterministic ranking around an AI-generated summary || Added a recommendation trace and confirmation-gated cart preview
 resume.impact: Produces safer, inspectable food recommendations instead of opaque model output.
@@ -104,7 +104,7 @@ repo: https://github.com/blackdragoon26/ebpf-mcp-tracer
 live: none
 stack: Python, bpftrace, eBPF, Linux, MCP
 screenshot: auto
-resume: no
+resume: yes
 resume.objective: Let AI debugging agents inspect Linux performance without granting unrestricted eBPF execution.
 resume.approach: Implemented a strict probe allowlist, dry-run validation, and execution timeouts around bpftrace || Exposed the guarded tracing workflow through MCP
 resume.impact: Enables kernel-level diagnostics while reducing command-injection and runaway-probe risk.
