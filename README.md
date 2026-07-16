@@ -109,6 +109,18 @@ resume.objective: Let AI debugging agents inspect Linux performance without gran
 resume.approach: Implemented a strict probe allowlist, dry-run validation, and execution timeouts around bpftrace || Exposed the guarded tracing workflow through MCP
 resume.impact: Enables kernel-level diagnostics while reducing command-injection and runaway-probe risk.
 -->
+9. [<b>Myprod</b>](https://myprod-control.vercel.app/): A Go CLI and operator dashboard that turns free-tier and low-cost VPS machines into a personal compute pool for deploying backend services with centralized scheduling, ingress, networking, and guarded node controls.
+<br>Repo: https://github.com/blackdragoon26/Myprod
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/Myprod
+live: https://myprod-control.vercel.app/
+stack: Go, Nomad, Traefik, WireGuard, Docker, Netlify DNS, SOPS
+screenshot: auto
+resume: yes
+resume.objective: Turn manually provisioned VPS machines into a low-overhead personal compute pool for backend services.
+resume.approach: Built a Go CLI and operator dashboard around Nomad scheduling, Traefik ingress, and WireGuard networking || Added guarded node lifecycle controls, application registration, live resource metrics, and idempotent Netlify DNS management
+resume.impact: Provides one control surface for deploying applications and managing heterogeneous free-tier and temporary compute capacity.
+-->
 
 ## AI (The elixir to doom?)
 
