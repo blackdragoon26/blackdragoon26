@@ -54,7 +54,7 @@ resume.impact: Delivers self-hosted, account-free synchronization without sendin
 4. [<b>GSoC- SpliDT: Scaling Stateful Decision Tree Algorithms in P4</b>](https://summerofcode.withgoogle.com/archive/2025/projects/Qvq4a3yR): It is a switch-native compiler framework that enables stateful decision tree inference directly in programmable switches, bringing real-time machine learning into the network data plane. IT helps to compile high-performance decision tree models to enable detection and observability of security-significant flow behaviors across diverse traffic workloads on Intel Tofino ASICs.<br>Report: [https://github.com/p4lang/gsoc/tree/main/2025/projects/spliDT](https://github.com/p4lang/gsoc/blob/main/permapage/2025-splidt.md) (Codebase Private due to [Research nature](https://arxiv.org/abs/2509.00397) of the project)
 <br>https://splidt-showcase.vercel.app/
 <!-- portfolio-meta
-repo: https://github.com/p4lang
+repo: https://github.com/p4lang/gsoc
 live: https://splidt-showcase.vercel.app/
 stack: P4, Python, P4Runtime, Docker, C++, Intel Tofino
 screenshot: auto
