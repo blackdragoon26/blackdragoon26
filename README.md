@@ -17,16 +17,96 @@ I am a dynamic OS system's engineer, and I love to delve in the bisection of low
 ## Wall of Fame
 1. [<b>Los-Tecnicos</b>](https://los-tecnicos.vercel.app/): A Decentralized Energy Grid on [Stellar](https://stellar.org/) Ecosystem which will turn energy into Tokenized Assets, and Energy into Stable Income.
 <br>Repo: https://github.com/blackdragoon26/Los-Tecnicos , a super cool residency [project](https://www.linkedin.com/posts/sankalp-jha-18a95a244_at-mcleod-residency-program-of-stellar-development-activity-7435258958967336961--0bG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADynRXoByTKgoc9YS3dOMkn3RoKHYUfZ2oI)
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/Los-Tecnicos
+live: https://los-tecnicos.vercel.app/
+stack: Go, TypeScript, Rust, Soroban, Raspberry Pi, ESP32
+screenshot: auto
+resume: yes
+resume.objective: Build a decentralized energy grid that tokenizes renewable-energy production on the Stellar ecosystem.
+resume.approach: Built a Go backend and three Soroban smart contracts || Integrated a Raspberry Pi and ESP32 hardware mesh with the software platform
+resume.impact: Won Asia-Pacific Web3 bounties and received recognition from the Government of India.
+-->
 2. [<b>DMIE</b>](https://www.doesmyideaexist.com/): A simple solution to every person's question, does my idea already exists, and also get your idea's comparative analysis of existing competition as we scraped and built on 500,000 Indian Startups.
 <br>Private Repo in Collab with a Cracked [DevFriend](https://www.linkedin.com/in/krishna-bansal-a82a68254/) of mine.
+<!-- portfolio-meta
+repo: private
+live: https://www.doesmyideaexist.com/
+stack: Next.js, TypeScript, Python, FastAPI, Vector DB, LLM
+screenshot: auto
+resume: yes
+resume.objective: Determine whether a startup idea already exists by comparing it against more than 500,000 company records.
+resume.approach: Built a scheduled scraper that keeps the startup dataset current || Combined LLM query understanding with vector search and backend filters
+resume.impact: Raised USD 10,000 and serves more than 100 users worldwide.
+-->
 3. [<b>Do-It</b>](https://github.com/blackdragoon26/Do-It): A self-hosted binary (for Raspberry Pi, adv. routers, old phones), built in Go, running SSE/HTTP server, allowing simple synced notes/multimedia files across all devices connected to ur local home wifi.
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/Do-It
+live: none
+stack: Go, SSE, HTTP, Raspberry Pi, Local-first
+screenshot: auto
+resume: no
+resume.objective: Provide private, synchronized notes and media across devices on a local network.
+resume.approach: Packaged a lightweight Go SSE and HTTP server for Raspberry Pi, routers, and repurposed phones
+resume.impact: Delivers self-hosted, account-free synchronization without sending household data to a cloud service.
+-->
 4. [<b>GSoC- SpliDT: Scaling Stateful Decision Tree Algorithms in P4</b>](https://summerofcode.withgoogle.com/archive/2025/projects/Qvq4a3yR): It is a switch-native compiler framework that enables stateful decision tree inference directly in programmable switches, bringing real-time machine learning into the network data plane. IT helps to compile high-performance decision tree models to enable detection and observability of security-significant flow behaviors across diverse traffic workloads on Intel Tofino ASICs.<br>Report: https://github.com/p4lang/gsoc/tree/main/2025/projects/spliDT (Codebase Private due to [Research nature](https://arxiv.org/abs/2509.00397) of the project)
+<!-- portfolio-meta
+repo: https://github.com/p4lang/gsoc
+live: https://summerofcode.withgoogle.com/archive/2025/projects/Qvq4a3yR
+stack: P4, Python, P4Runtime, Docker, C++, Intel Tofino
+screenshot: auto
+resume: yes
+resume.objective: Compile machine-learning decision trees directly into P4 data planes using Partitioned Decision Trees.
+resume.approach: Architected a switch-native inference framework around Subtree ID recirculation || Automated P4Runtime validation across Tofino and Mininet test environments
+resume.impact: Achieved 10 Gbps line-rate throughput and 5x lower latency than control-plane inference.
+-->
 5. [<b>p4Lens</b>](https://github.com/openlabnetworks/p4Lens): An Interactive P4 Program Visualiser, which allows to Upload and visualise P4 programs with an intuitive and interactive pipeline flow diagram, to those who are beginning to learn P4Lang.<br>https://repo-tawny-iota.vercel.app/
+<!-- portfolio-meta
+repo: https://github.com/openlabnetworks/p4Lens
+live: https://repo-tawny-iota.vercel.app/
+stack: React, FastAPI, Docker, React Flow, P4
+screenshot: auto
+resume: yes
+resume.objective: Make P4 programs easier to learn and debug through an interactive visualization of their processing pipeline.
+resume.approach: Built a parser for P4-14 and P4-16 programs || Rendered headers, parsers, controls, and deparsers as interactive React Flow topologies
+resume.impact: Renders pipeline diagrams in under 200 ms and reduces control-plane debugging effort by approximately 40 percent.
+-->
 6. [<b>Slix</b>](https://github.com/blackdragoon26/Slix): A full-stack movie streaming and review platform, built with React and Go, where admins can add movies and reviews, and Azure OpenAI does sentiment analysis on curator reviews so users can understand movie vibe at a glance.
 <br>Live: https://magic-stream-movies-beige.vercel.app/
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/Slix
+live: https://magic-stream-movies-beige.vercel.app/
+stack: React, Go, Azure OpenAI, REST API
+screenshot: auto
+resume: no
+resume.objective: Combine movie streaming, reviews, and machine-generated sentiment summaries in one full-stack application.
+resume.approach: Built the frontend in React and the service layer in Go || Added Azure OpenAI sentiment analysis for curator reviews
+resume.impact: Gives viewers a concise representation of a movie's tone before watching.
+-->
 7. [<b>Moodish</b>](https://github.com/blackdragoon26/Moodish): A mood-based food planning app for Swiggy-style ordering, where user gives craving, budget and diet needs, and it gives ranked meal options with transparent AI summary, recommendation trace and safe cart preview.
 <br>Live: https://moodish.onrender.com/
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/Moodish
+live: https://moodish.onrender.com/
+stack: JavaScript, Node.js, OpenAI API, MCP
+screenshot: auto
+resume: no
+resume.objective: Rank meal options from a user's craving, budget, and dietary constraints while keeping the recommendation explainable.
+resume.approach: Built intent extraction and deterministic ranking around an AI-generated summary || Added a recommendation trace and confirmation-gated cart preview
+resume.impact: Produces safer, inspectable food recommendations instead of opaque model output.
+-->
 8. [<b>ebpf-mcp-tracer</b>](https://github.com/blackdragoon26/ebpf-mcp-tracer): A secure MCP server which lets LLMs write and run bpftrace scripts against Linux kernel, with strict probe allowlist, dry-run validation and hard timeout, so AI agents can debug system bottlenecks without raw unsafe eBPF access.
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/ebpf-mcp-tracer
+live: none
+stack: Python, bpftrace, eBPF, Linux, MCP
+screenshot: auto
+resume: no
+resume.objective: Let AI debugging agents inspect Linux performance without granting unrestricted eBPF execution.
+resume.approach: Implemented a strict probe allowlist, dry-run validation, and execution timeouts around bpftrace || Exposed the guarded tracing workflow through MCP
+resume.impact: Enables kernel-level diagnostics while reducing command-injection and runaway-probe risk.
+-->
 
 ## AI (The elixir to doom?)
 
