@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> The best time on a clock is 6:30--hands down.
+> The shovel was a ground-breaking invention.
 <!-- DADJOKE_END -->
 
 
