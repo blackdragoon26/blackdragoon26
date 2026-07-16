@@ -40,9 +40,10 @@ resume.approach: Built a scheduled scraper that keeps the startup dataset curren
 resume.impact: Raised USD 10,000 and serves more than 100 users worldwide.
 -->
 3. [<b>Do-It</b>](https://github.com/blackdragoon26/Do-It): A self-hosted binary (for Raspberry Pi, adv. routers, old phones), built in Go, running SSE/HTTP server, allowing simple synced notes/multimedia files across all devices connected to ur local home wifi.
+<br>https://repo-tawny-iota.vercel.app/
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/Do-It
-live: none
+live: https://repo-tawny-iota.vercel.app/
 stack: Go, SSE, HTTP, Raspberry Pi, Local-first
 screenshot: auto
 resume: yes
@@ -50,10 +51,11 @@ resume.objective: Provide private, synchronized notes and media across devices o
 resume.approach: Packaged a lightweight Go SSE and HTTP server for Raspberry Pi, routers, and repurposed phones
 resume.impact: Delivers self-hosted, account-free synchronization without sending household data to a cloud service.
 -->
-4. [<b>GSoC- SpliDT: Scaling Stateful Decision Tree Algorithms in P4</b>](https://summerofcode.withgoogle.com/archive/2025/projects/Qvq4a3yR): It is a switch-native compiler framework that enables stateful decision tree inference directly in programmable switches, bringing real-time machine learning into the network data plane. IT helps to compile high-performance decision tree models to enable detection and observability of security-significant flow behaviors across diverse traffic workloads on Intel Tofino ASICs.<br>Report: https://github.com/p4lang/gsoc/tree/main/2025/projects/spliDT (Codebase Private due to [Research nature](https://arxiv.org/abs/2509.00397) of the project)
+4. [<b>GSoC- SpliDT: Scaling Stateful Decision Tree Algorithms in P4</b>](https://summerofcode.withgoogle.com/archive/2025/projects/Qvq4a3yR): It is a switch-native compiler framework that enables stateful decision tree inference directly in programmable switches, bringing real-time machine learning into the network data plane. IT helps to compile high-performance decision tree models to enable detection and observability of security-significant flow behaviors across diverse traffic workloads on Intel Tofino ASICs.<br>Report: [https://github.com/p4lang/gsoc/tree/main/2025/projects/spliDT](https://github.com/p4lang/gsoc/blob/main/permapage/2025-splidt.md) (Codebase Private due to [Research nature](https://arxiv.org/abs/2509.00397) of the project)
+<br>https://splidt-showcase.vercel.app/
 <!-- portfolio-meta
-repo: https://github.com/p4lang/gsoc
-live: https://summerofcode.withgoogle.com/archive/2025/projects/Qvq4a3yR
+repo: https://github.com/p4lang
+live: https://splidt-showcase.vercel.app/
 stack: P4, Python, P4Runtime, Docker, C++, Intel Tofino
 screenshot: auto
 resume: yes
@@ -64,7 +66,7 @@ resume.impact: Achieved 10 Gbps line-rate throughput and 5x lower latency than c
 5. [<b>p4Lens</b>](https://github.com/openlabnetworks/p4Lens): An Interactive P4 Program Visualiser, which allows to Upload and visualise P4 programs with an intuitive and interactive pipeline flow diagram, to those who are beginning to learn P4Lang.<br>https://repo-tawny-iota.vercel.app/
 <!-- portfolio-meta
 repo: https://github.com/openlabnetworks/p4Lens
-live: https://repo-tawny-iota.vercel.app/
+live: none
 stack: React, FastAPI, Docker, React Flow, P4
 screenshot: auto
 resume: yes
