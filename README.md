@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> The shovel was a ground-breaking invention.
+> I considered building the patio by myself. But I didn't have the stones.
 <!-- DADJOKE_END -->
 
 
