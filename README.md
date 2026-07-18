@@ -39,8 +39,8 @@ resume.objective: Determine whether a startup idea already exists by comparing i
 resume.approach: Built a scheduled scraper that keeps the startup dataset current || Combined LLM query understanding with vector search and backend filters
 resume.impact: Raised USD 10,000 and serves more than 100 users worldwide.
 -->
-3. [<b>Do-It</b>](https://github.com/blackdragoon26/Do-It): A self-hosted binary (for Raspberry Pi, adv. routers, old phones), built in Go, running SSE/HTTP server, allowing simple synced notes/multimedia files across all devices connected to ur local home wifi.
-<br>https://repo-tawny-iota.vercel.app/
+3. [<b>Do-It</b>](https://repo-tawny-iota.vercel.app/) A self-hosted binary (for Raspberry Pi, adv. routers, old phones), built in Go, running SSE/HTTP server, allowing simple synced notes/multimedia files across all devices connected to ur local home wifi.
+<br>Repo: [https://github.com/blackdragoon26/Do-It](https://github.com/blackdragoon26/Do-It)
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/Do-It
 live: https://repo-tawny-iota.vercel.app/
@@ -52,7 +52,7 @@ resume.approach: Packaged a lightweight Go SSE and HTTP server for Raspberry Pi,
 resume.impact: Delivers self-hosted, account-free synchronization without sending household data to a cloud service.
 -->
 4. [<b>GSoC- SpliDT: Scaling Stateful Decision Tree Algorithms in P4</b>](https://summerofcode.withgoogle.com/archive/2025/projects/Qvq4a3yR): It is a switch-native compiler framework that enables stateful decision tree inference directly in programmable switches, bringing real-time machine learning into the network data plane. IT helps to compile high-performance decision tree models to enable detection and observability of security-significant flow behaviors across diverse traffic workloads on Intel Tofino ASICs.<br>Report: [https://github.com/p4lang/gsoc/tree/main/2025/projects/spliDT](https://github.com/p4lang/gsoc/blob/main/permapage/2025-splidt.md) (Codebase Private due to [Research nature](https://arxiv.org/abs/2509.00397) of the project)
-<br>https://splidt-showcase.vercel.app/
+<br>Repo: https://splidt-showcase.vercel.app/
 <!-- portfolio-meta
 repo: https://github.com/p4lang/gsoc
 live: https://splidt-showcase.vercel.app/
@@ -63,10 +63,12 @@ resume.objective: Compile machine-learning decision trees directly into P4 data 
 resume.approach: Architected a switch-native inference framework around Subtree ID recirculation || Automated P4Runtime validation across Tofino and Mininet test environments
 resume.impact: Achieved 10 Gbps line-rate throughput and 5x lower latency than control-plane inference.
 -->
-5. [<b>p4Lens</b>](https://github.com/openlabnetworks/p4Lens): An Interactive P4 Program Visualiser, which allows to Upload and visualise P4 programs with an intuitive and interactive pipeline flow diagram, to those who are beginning to learn P4Lang.<br>https://repo-tawny-iota.vercel.app/
+5. [<b>p4Lens</b>](https://p4lens.vercel.app/): An Interactive P4 Program Visualiser, which allows to Upload and visualise P4 programs with an intuitive and interactive pipeline flow diagram, to those who are beginning to learn P4Lang.
+<br>Repo: https://github.com/openlabnetworks/p4Lens
+
 <!-- portfolio-meta
 repo: https://github.com/openlabnetworks/p4Lens
-live: none
+live: https://p4lens.vercel.app/
 stack: React, FastAPI, Docker, React Flow, P4
 screenshot: auto
 resume: yes
@@ -74,8 +76,8 @@ resume.objective: Make P4 programs easier to learn and debug through an interact
 resume.approach: Built a parser for P4-14 and P4-16 programs || Rendered headers, parsers, controls, and deparsers as interactive React Flow topologies
 resume.impact: Renders pipeline diagrams in under 200 ms and reduces control-plane debugging effort by approximately 40 percent.
 -->
-6. [<b>Slix</b>](https://github.com/blackdragoon26/Slix): A full-stack movie streaming and review platform, built with React and Go, where admins can add movies and reviews, and Azure OpenAI does sentiment analysis on curator reviews so users can understand movie vibe at a glance.
-<br>Live: https://magic-stream-movies-beige.vercel.app/
+6. [<b>Slix</b>](https://magic-stream-movies-beige.vercel.app/): A full-stack movie streaming and review platform, built with React and Go, where admins can add movies and reviews, and Azure OpenAI does sentiment analysis on curator reviews so users can understand movie vibe at a glance.
+<br>Repo: https://github.com/blackdragoon26/Slix
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/Slix
 live: https://magic-stream-movies-beige.vercel.app/
@@ -87,8 +89,9 @@ resume.objective: Combine movie streaming, reviews, and machine-generated sentim
 resume.approach: Built the frontend in React and the service layer in Go || Added Azure OpenAI sentiment analysis for curator reviews
 resume.impact: Gives viewers a concise representation of a movie's tone before watching.
 -->
-7. [<b>Moodish</b>](https://github.com/blackdragoon26/Moodish): A mood-based food planning app for Swiggy-style ordering, where user gives craving, budget and diet needs, and it gives ranked meal options with transparent AI summary, recommendation trace and safe cart preview.
-<br>Live: https://moodish.onrender.com/
+7. [<b>Moodish</b>](https://moodish.onrender.com/): A mood-based food planning app for Swiggy-style ordering, where user gives craving, budget and diet needs, and it gives ranked meal options with transparent AI summary, recommendation trace and safe cart preview.
+<br>Repo: https://github.com/blackdragoon26/Moodish
+
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/Moodish
 live: https://moodish.onrender.com/
