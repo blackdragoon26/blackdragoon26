@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Shout out to my grandma, that's the only way she can hear.
+> I decided to sell my Hoover… well it was just collecting dust.
 <!-- DADJOKE_END -->
 
 
