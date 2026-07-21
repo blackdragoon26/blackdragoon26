@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I decided to sell my Hoover… well it was just collecting dust.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 <!-- DADJOKE_END -->
 
 
