@@ -126,6 +126,18 @@ resume.objective: Turn manually provisioned VPS machines into a low-overhead per
 resume.approach: Built a Go CLI and operator dashboard around Nomad scheduling, Traefik ingress, and WireGuard networking || Added guarded node lifecycle controls, application registration, live resource metrics, and idempotent Netlify DNS management
 resume.impact: Provides one control surface for deploying applications and managing heterogeneous free-tier and temporary compute capacity.
 -->
+10. [<b>Open Claw Lab</b>](https://github.com/blackdragoon26/open-claw-lab): An Oracle Cloud-hosted, multi-agent career intelligence system that finds high-signal engineering opportunities, validates every lead through deterministic evidence gates and independent review, and delivers a verified Telegram digest without automatically contacting anyone.
+<br>Repo: https://github.com/blackdragoon26/open-claw-lab
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/open-claw-lab
+live: none
+stack: Node.js, OpenClaw, Gemini, Oracle Cloud, systemd, Telegram
+screenshot: auto
+resume: yes
+resume.objective: Discover high-signal engineering opportunities while preventing unsupported or stale leads from reaching the user.
+resume.approach: Built a multi-agent discovery and independent-review pipeline around typed lead records || Added deterministic freshness, eligibility, contact relevance, relocation evidence, and deduplication gates
+resume.impact: Delivers an evidence-backed Telegram digest while rejecting guessed contacts, unsupported geography, stale roles, and duplicate leads.
+-->
 
 ## AI (The elixir to doom?)
 
