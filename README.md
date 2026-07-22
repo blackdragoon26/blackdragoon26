@@ -15,6 +15,7 @@ I am a dynamic OS system's engineer, and I love to delve in the bisection of low
 <br>With the focus on skills rather than language itself, I learn, I adapt, and ship at GodSpeed!
 
 ## Wall of Fame
+<!-- portfolio-sync-revision: ats-resume-v2 -->
 1. [<b>Los-Tecnicos</b>](https://los-tecnicos.vercel.app/): A Decentralized Energy Grid on [Stellar](https://stellar.org/) Ecosystem which will turn energy into Tokenized Assets, and Energy into Stable Income.
 <br>Repo: https://github.com/blackdragoon26/Los-Tecnicos , a super cool residency [project](https://www.linkedin.com/posts/sankalp-jha-18a95a244_at-mcleod-residency-program-of-stellar-development-activity-7435258958967336961--0bG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADynRXoByTKgoc9YS3dOMkn3RoKHYUfZ2oI)
 <!-- portfolio-meta
