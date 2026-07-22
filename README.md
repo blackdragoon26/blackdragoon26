@@ -109,7 +109,7 @@ repo: https://github.com/blackdragoon26/ebpf-mcp-tracer
 live: none
 stack: Python, bpftrace, eBPF, Linux, MCP
 screenshot: auto
-resume: yes
+resume: no
 resume.objective: Let AI debugging agents inspect Linux performance without granting unrestricted eBPF execution.
 resume.approach: Implemented a strict probe allowlist, dry-run validation, and execution timeouts around bpftrace || Exposed the guarded tracing workflow through MCP
 resume.impact: Enables kernel-level diagnostics while reducing command-injection and runaway-probe risk.
