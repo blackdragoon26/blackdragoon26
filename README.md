@@ -24,7 +24,7 @@ stack: Go, TypeScript, Rust, Soroban, Raspberry Pi, ESP32
 screenshot: auto
 resume: yes
 resume.objective: Build a decentralized energy grid that tokenizes renewable-energy production on the Stellar ecosystem.
-resume.approach: Built a Go backend and three Soroban smart contracts || Integrated a Raspberry Pi and ESP32 hardware mesh with the software platform
+resume.approach: Built a Go backend and 4 Soroban smart contracts || Integrated a Raspberry Pi/ESP32 hardware mesh with the platform
 resume.impact: Won Asia-Pacific Web3 bounties and received recognition from the Government of India.
 -->
 2. [<b>DMIE</b>](https://www.doesmyideaexist.com/): A simple solution to every person's question, does my idea already exists, and also get your idea's comparative analysis of existing competition as we scraped and built on 500,000 Indian Startups.
@@ -36,7 +36,7 @@ stack: Next.js, TypeScript, Python, FastAPI, Vector DB, LLM
 screenshot: auto
 resume: yes
 resume.objective: Determine whether a startup idea already exists by comparing it against more than 500,000 company records.
-resume.approach: Built a scheduled scraper that keeps the startup dataset current || Combined LLM query understanding with vector search and backend filters
+resume.approach: Built a scheduled scraper that keeps the startup dataset current || Combined LLM query with vector search and backend filters
 resume.impact: Raised USD 10,000 and serves more than 100 users worldwide.
 -->
 3. [<b>Do-It</b>](https://repo-tawny-iota.vercel.app/) A self-hosted binary (for Raspberry Pi, adv. routers, old phones), built in Go, running SSE/HTTP server, allowing simple synced notes/multimedia files across all devices connected to ur local home wifi.
