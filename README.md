@@ -46,7 +46,7 @@ repo: https://github.com/blackdragoon26/Do-It
 live: https://repo-tawny-iota.vercel.app/
 stack: Go, SSE, HTTP, Raspberry Pi, Local-first
 screenshot: auto
-resume: yes
+resume: no
 resume.objective: Provide private, synchronized notes and media across devices on a local network.
 resume.approach: Packaged a lightweight Go SSE and HTTP server for Raspberry Pi, routers, and repurposed phones
 resume.impact: Delivers self-hosted, account-free synchronization without sending household data to a cloud service.
@@ -71,7 +71,7 @@ repo: https://github.com/openlabnetworks/p4Lens
 live: https://p4lens.vercel.app/
 stack: React, FastAPI, Docker, React Flow, P4
 screenshot: auto
-resume: yes
+resume: no
 resume.objective: Make P4 programs easier to learn and debug through an interactive visualization of their processing pipeline.
 resume.approach: Built a parser for P4-14 and P4-16 programs || Rendered headers, parsers, controls, and deparsers as interactive React Flow topologies
 resume.impact: Renders pipeline diagrams in under 200 ms and reduces control-plane debugging effort by approximately 40 percent.
