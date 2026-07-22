@@ -58,7 +58,7 @@ repo: https://github.com/p4lang/gsoc
 live: https://splidt-showcase.vercel.app/
 stack: P4, Python, P4Runtime, Docker, C++, Intel Tofino
 screenshot: auto
-resume: yes
+resume: no
 resume.objective: Compile machine-learning decision trees directly into P4 data planes using Partitioned Decision Trees.
 resume.approach: Architected a switch-native inference framework around Subtree ID recirculation || Automated P4Runtime validation across Tofino and Mininet test environments
 resume.impact: Achieved 10 Gbps line-rate throughput and 5x lower latency than control-plane inference.
@@ -98,7 +98,7 @@ live: https://moodish.onrender.com/
 stack: JavaScript, Node.js, OpenAI API, MCP
 screenshot: auto
 screenshot.wait_seconds: 180
-resume: yes
+resume: no
 resume.objective: Rank meal options from a user's craving, budget, and dietary constraints while keeping the recommendation explainable.
 resume.approach: Built intent extraction and deterministic ranking around an AI-generated summary || Added a recommendation trace and confirmation-gated cart preview
 resume.impact: Produces safer, inspectable food recommendations instead of opaque model output.
@@ -133,7 +133,7 @@ repo: https://github.com/blackdragoon26/open-claw-lab
 live: none
 stack: Node.js, OpenClaw, Gemini, Oracle Cloud, systemd, Telegram
 screenshot: auto
-resume: yes
+resume: no
 resume.objective: Discover high-signal engineering opportunities while preventing unsupported or stale leads from reaching the user.
 resume.approach: Built a multi-agent discovery and independent-review pipeline around typed lead records || Added deterministic freshness, eligibility, contact relevance, relocation evidence, and deduplication gates
 resume.impact: Delivers an evidence-backed Telegram digest while rejecting guessed contacts, unsupported geography, stale roles, and duplicate leads.
