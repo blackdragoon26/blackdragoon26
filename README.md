@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> Why did the teddy bear say “no” to dessert? Because she was stuffed.
 <!-- DADJOKE_END -->
 
 
