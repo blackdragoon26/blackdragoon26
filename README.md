@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the teddy bear say “no” to dessert? Because she was stuffed.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 <!-- DADJOKE_END -->
 
 
