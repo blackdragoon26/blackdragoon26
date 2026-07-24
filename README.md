@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Did you hear about the kidnapping at school? It's ok, he woke up.
+> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 <!-- DADJOKE_END -->
 
 
