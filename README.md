@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What cheese can never be yours? Nacho cheese.
+> Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 <!-- DADJOKE_END -->
 
 
