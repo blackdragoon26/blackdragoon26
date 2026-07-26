@@ -21,12 +21,12 @@ I am a dynamic OS system's engineer, and I love to delve in the bisection of low
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/Cutable
 live: https://cutable.sankalpjha.dev/
-stack: Go, Next.js, React, TypeScript, PostgreSQL, Neon, OpenRouter, E2B, WebSockets, Docker, GitHub Actions, Nomad, Traefik, WireGuard, Google OAuth, JWT
+stack: Go, Next.js, PostgreSQL, OpenRouter, E2B, WebSockets, Nomad
 screenshot: auto
 resume: yes
-resume.objective: Turn natural-language and visual requirements into editable, previewable React applications.
-resume.approach: Built a Go agent-orchestration backend around OpenRouter tool calls and isolated E2B sandboxes || Streamed planning, code edits, build progress, and previews to a Next.js workspace over WebSockets with persistent project recovery
-resume.impact: Delivers multimodal generation, BYOK provider access, account-scoped project history, and health-gated immutable deployments through a self-hosted Nomad platform.
+resume.objective: Generate editable React applications from text and visual requirements.
+resume.approach: Orchestrated OpenRouter tools and E2B sandboxes in Go || Streamed code and live previews to Next.js over WebSockets
+resume.impact: Ships multimodal BYOK generation, persistent projects, and health-gated deployments.
 -->
 2. [<b>Los-Tecnicos</b>](https://los-tecnicos.vercel.app/): A Decentralized Energy Grid on [Stellar](https://stellar.org/) Ecosystem which will turn energy into Tokenized Assets, and Energy into Stable Income.
 <br>Repo: https://github.com/blackdragoon26/Los-Tecnicos , a super cool residency [project](https://www.linkedin.com/posts/sankalp-jha-18a95a244_at-mcleod-residency-program-of-stellar-development-activity-7435258958967336961--0bG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADynRXoByTKgoc9YS3dOMkn3RoKHYUfZ2oI)
