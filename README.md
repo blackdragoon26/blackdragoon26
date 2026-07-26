@@ -16,19 +16,31 @@ I am a dynamic OS system's engineer, and I love to delve in the bisection of low
 
 ## Wall of Fame
 <!-- portfolio-sync-revision: ats-resume-v2 -->
-1. [<b>Los-Tecnicos</b>](https://los-tecnicos.vercel.app/): A Decentralized Energy Grid on [Stellar](https://stellar.org/) Ecosystem which will turn energy into Tokenized Assets, and Energy into Stable Income.
+1. [<b>Cutable</b>](https://cutable.sankalpjha.dev/): A production-oriented agentic software-engineering workspace that turns natural-language prompts and visual references into working React applications. Its Go orchestration backend streams planning, tool execution, code changes, builds, and live previews from isolated E2B sandboxes while preserving each user's projects for continued editing.
+<br>Repo: https://github.com/blackdragoon26/Cutable
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/Cutable
+live: https://cutable.sankalpjha.dev/
+stack: Go, Next.js, React, TypeScript, PostgreSQL, Neon, OpenRouter, E2B, WebSockets, Docker, GitHub Actions, Nomad, Traefik, WireGuard, Google OAuth, JWT
+screenshot: auto
+resume: yes
+resume.objective: Turn natural-language and visual requirements into editable, previewable React applications.
+resume.approach: Built a Go agent-orchestration backend around OpenRouter tool calls and isolated E2B sandboxes || Streamed planning, code edits, build progress, and previews to a Next.js workspace over WebSockets with persistent project recovery
+resume.impact: Delivers multimodal generation, BYOK provider access, account-scoped project history, and health-gated immutable deployments through a self-hosted Nomad platform.
+-->
+2. [<b>Los-Tecnicos</b>](https://los-tecnicos.vercel.app/): A Decentralized Energy Grid on [Stellar](https://stellar.org/) Ecosystem which will turn energy into Tokenized Assets, and Energy into Stable Income.
 <br>Repo: https://github.com/blackdragoon26/Los-Tecnicos , a super cool residency [project](https://www.linkedin.com/posts/sankalp-jha-18a95a244_at-mcleod-residency-program-of-stellar-development-activity-7435258958967336961--0bG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADynRXoByTKgoc9YS3dOMkn3RoKHYUfZ2oI)
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/Los-Tecnicos
 live: https://los-tecnicos.vercel.app/
 stack: Go, TypeScript, Rust, Soroban, Raspberry Pi, ESP32
 screenshot: auto
-resume: yes
+resume: no
 resume.objective: Build a decentralized energy grid that tokenizes renewable-energy production on the Stellar ecosystem.
 resume.approach: Built a Go backend and 4 Soroban smart contracts || Integrated a Raspberry Pi/ESP32 hardware mesh with the platform
 resume.impact: Won Asia-Pacific Web3 bounties and received recognition from the Government of India.
 -->
-2. [<b>DMIE</b>](https://www.doesmyideaexist.com/): A simple solution to every person's question, does my idea already exists, and also get your idea's comparative analysis of existing competition as we scraped and built on 500,000 Indian Startups.
+3. [<b>DMIE</b>](https://www.doesmyideaexist.com/): A simple solution to every person's question, does my idea already exists, and also get your idea's comparative analysis of existing competition as we scraped and built on 500,000 Indian Startups.
 <br>Private Repo in Collab with a Cracked [DevFriend](https://www.linkedin.com/in/krishna-bansal-a82a68254/) of mine.
 <!-- portfolio-meta
 repo: private
@@ -40,7 +52,7 @@ resume.objective: Determine whether a startup idea already exists by comparing i
 resume.approach: Built a scheduled scraper that keeps the startup dataset current || Combined LLM query with vector search and backend filters
 resume.impact: Raised USD 10,000 and serves more than 100 users worldwide.
 -->
-3. [<b>Do-It</b>](https://repo-tawny-iota.vercel.app/) A self-hosted binary (for Raspberry Pi, adv. routers, old phones), built in Go, running SSE/HTTP server, allowing simple synced notes/multimedia files across all devices connected to ur local home wifi.
+4. [<b>Do-It</b>](https://repo-tawny-iota.vercel.app/) A self-hosted binary (for Raspberry Pi, adv. routers, old phones), built in Go, running SSE/HTTP server, allowing simple synced notes/multimedia files across all devices connected to ur local home wifi.
 <br>Repo: [https://github.com/blackdragoon26/Do-It](https://github.com/blackdragoon26/Do-It)
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/Do-It
@@ -52,7 +64,7 @@ resume.objective: Provide private, synchronized notes and media across devices o
 resume.approach: Packaged a lightweight Go SSE and HTTP server for Raspberry Pi, routers, and repurposed phones
 resume.impact: Delivers self-hosted, account-free synchronization without sending household data to a cloud service.
 -->
-4. [<b>GSoC- SpliDT: Scaling Stateful Decision Tree Algorithms in P4</b>](https://summerofcode.withgoogle.com/archive/2025/projects/Qvq4a3yR): It is a switch-native compiler framework that enables stateful decision tree inference directly in programmable switches, bringing real-time machine learning into the network data plane. IT helps to compile high-performance decision tree models to enable detection and observability of security-significant flow behaviors across diverse traffic workloads on Intel Tofino ASICs.<br>Report: [https://github.com/p4lang/gsoc/tree/main/2025/projects/spliDT](https://github.com/p4lang/gsoc/blob/main/permapage/2025-splidt.md) (Codebase Private due to [Research nature](https://arxiv.org/abs/2509.00397) of the project)
+5. [<b>GSoC- SpliDT: Scaling Stateful Decision Tree Algorithms in P4</b>](https://summerofcode.withgoogle.com/archive/2025/projects/Qvq4a3yR): It is a switch-native compiler framework that enables stateful decision tree inference directly in programmable switches, bringing real-time machine learning into the network data plane. IT helps to compile high-performance decision tree models to enable detection and observability of security-significant flow behaviors across diverse traffic workloads on Intel Tofino ASICs.<br>Report: [https://github.com/p4lang/gsoc/tree/main/2025/projects/spliDT](https://github.com/p4lang/gsoc/blob/main/permapage/2025-splidt.md) (Codebase Private due to [Research nature](https://arxiv.org/abs/2509.00397) of the project)
 <br>Repo: https://splidt-showcase.vercel.app/
 <!-- portfolio-meta
 repo: https://github.com/p4lang/gsoc
@@ -64,7 +76,7 @@ resume.objective: Compile machine-learning decision trees directly into P4 data 
 resume.approach: Architected a switch-native inference framework around Subtree ID recirculation || Automated P4Runtime validation across Tofino and Mininet test environments
 resume.impact: Achieved 10 Gbps line-rate throughput and 5x lower latency than control-plane inference.
 -->
-5. [<b>p4Lens</b>](https://p4lens.vercel.app/): An Interactive P4 Program Visualiser, which allows to Upload and visualise P4 programs with an intuitive and interactive pipeline flow diagram, to those who are beginning to learn P4Lang.
+6. [<b>p4Lens</b>](https://p4lens.vercel.app/): An Interactive P4 Program Visualiser, which allows to Upload and visualise P4 programs with an intuitive and interactive pipeline flow diagram, to those who are beginning to learn P4Lang.
 <br>Repo: https://github.com/openlabnetworks/p4Lens
 
 <!-- portfolio-meta
@@ -77,7 +89,7 @@ resume.objective: Make P4 programs easier to learn and debug through an interact
 resume.approach: Built a parser for P4-14 and P4-16 programs || Rendered headers, parsers, controls, and deparsers as interactive React Flow topologies
 resume.impact: Renders pipeline diagrams in under 200 ms and reduces control-plane debugging effort by approximately 40 percent.
 -->
-6. [<b>Slix</b>](https://magic-stream-movies-beige.vercel.app/): A full-stack movie streaming and review platform, built with React and Go, where admins can add movies and reviews, and Azure OpenAI does sentiment analysis on curator reviews so users can understand movie vibe at a glance.
+7. [<b>Slix</b>](https://magic-stream-movies-beige.vercel.app/): A full-stack movie streaming and review platform, built with React and Go, where admins can add movies and reviews, and Azure OpenAI does sentiment analysis on curator reviews so users can understand movie vibe at a glance.
 <br>Repo: https://github.com/blackdragoon26/Slix
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/Slix
@@ -90,7 +102,7 @@ resume.objective: Combine movie streaming, reviews, and machine-generated sentim
 resume.approach: Built the frontend in React and the service layer in Go || Added Azure OpenAI sentiment analysis for curator reviews
 resume.impact: Gives viewers a concise representation of a movie's tone before watching.
 -->
-7. [<b>Moodish</b>](https://moodish.onrender.com/): A mood-based food planning app for Swiggy-style ordering, where user gives craving, budget and diet needs, and it gives ranked meal options with transparent AI summary, recommendation trace and safe cart preview.
+8. [<b>Moodish</b>](https://moodish.onrender.com/): A mood-based food planning app for Swiggy-style ordering, where user gives craving, budget and diet needs, and it gives ranked meal options with transparent AI summary, recommendation trace and safe cart preview.
 <br>Repo: https://github.com/blackdragoon26/Moodish
 
 <!-- portfolio-meta
@@ -104,7 +116,7 @@ resume.objective: Rank meal options from a user's craving, budget, and dietary c
 resume.approach: Built intent extraction and deterministic ranking around an AI-generated summary || Added a recommendation trace and confirmation-gated cart preview
 resume.impact: Produces safer, inspectable food recommendations instead of opaque model output.
 -->
-8. [<b>ebpf-mcp-tracer</b>](https://github.com/blackdragoon26/ebpf-mcp-tracer): A secure MCP server which lets LLMs write and run bpftrace scripts against Linux kernel, with strict probe allowlist, dry-run validation and hard timeout, so AI agents can debug system bottlenecks without raw unsafe eBPF access.
+9. [<b>ebpf-mcp-tracer</b>](https://github.com/blackdragoon26/ebpf-mcp-tracer): A secure MCP server which lets LLMs write and run bpftrace scripts against Linux kernel, with strict probe allowlist, dry-run validation and hard timeout, so AI agents can debug system bottlenecks without raw unsafe eBPF access.
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/ebpf-mcp-tracer
 live: none
@@ -115,7 +127,7 @@ resume.objective: Let AI debugging agents inspect Linux performance without gran
 resume.approach: Implemented a strict probe allowlist, dry-run validation, and execution timeouts around bpftrace || Exposed the guarded tracing workflow through MCP
 resume.impact: Enables kernel-level diagnostics while reducing command-injection and runaway-probe risk.
 -->
-9. [<b>Myprod</b>](https://myprod-control.vercel.app/): A Go CLI and operator dashboard that turns free-tier and low-cost VPS machines into a personal compute pool for deploying backend services with centralized scheduling, ingress, networking, and guarded node controls.
+10. [<b>Myprod</b>](https://myprod-control.vercel.app/): A Go CLI and operator dashboard that turns free-tier and low-cost VPS machines into a personal compute pool for deploying backend services with centralized scheduling, ingress, networking, and guarded node controls.
 <br>Repo: https://github.com/blackdragoon26/Myprod
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/Myprod
@@ -127,7 +139,7 @@ resume.objective: Turn manually provisioned VPS machines into a low-overhead per
 resume.approach: Built a Go CLI and operator dashboard around Nomad scheduling, Traefik ingress, and WireGuard networking || Added guarded node lifecycle controls, application registration, live resource metrics, and idempotent Netlify DNS management
 resume.impact: Provides one control surface for deploying applications and managing heterogeneous free-tier and temporary compute capacity.
 -->
-10. [<b>Open Claw Lab</b>](https://github.com/blackdragoon26/open-claw-lab): An Oracle Cloud-hosted, multi-agent career intelligence system that finds high-signal engineering opportunities, validates every lead through deterministic evidence gates and independent review, and delivers a verified Telegram digest without automatically contacting anyone.
+11. [<b>Open Claw Lab</b>](https://github.com/blackdragoon26/open-claw-lab): An Oracle Cloud-hosted, multi-agent career intelligence system that finds high-signal engineering opportunities, validates every lead through deterministic evidence gates and independent review, and delivers a verified Telegram digest without automatically contacting anyone.
 <br>Repo: https://github.com/blackdragoon26/open-claw-lab
 <!-- portfolio-meta
 repo: https://github.com/blackdragoon26/open-claw-lab
