@@ -3,7 +3,8 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
+> What is the least spoken language in the world?
+Sign Language
 <!-- DADJOKE_END -->
 
 
