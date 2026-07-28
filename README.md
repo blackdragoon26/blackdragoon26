@@ -3,8 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What is the least spoken language in the world?
-Sign Language
+> A steak pun is a rare medium well done.
 <!-- DADJOKE_END -->
 
 
