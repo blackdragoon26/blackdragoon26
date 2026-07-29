@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> A steak pun is a rare medium well done.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 <!-- DADJOKE_END -->
 
 
