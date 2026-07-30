@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> What did the dog say to the two trees? Bark bark.
 <!-- DADJOKE_END -->
 
 
