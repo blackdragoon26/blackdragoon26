@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the dog say to the two trees? Bark bark.
+> What do you call a fish wearing a bowtie? Sofishticated.
 <!-- DADJOKE_END -->
 
 
