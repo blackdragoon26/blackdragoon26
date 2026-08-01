@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call a fish wearing a bowtie? Sofishticated.
+> My cat was just sick on the carpet, I don’t think it’s feline well.
 <!-- DADJOKE_END -->
 
 
