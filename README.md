@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why are ghosts bad liars? Because you can see right through them!
+> What kind of award did the dentist receive? A little plaque.
 <!-- DADJOKE_END -->
 
 
