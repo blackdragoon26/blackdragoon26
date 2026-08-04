@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What kind of award did the dentist receive? A little plaque.
+> What biscuit does a short person like? Shortbread. 
 <!-- DADJOKE_END -->
 
 
