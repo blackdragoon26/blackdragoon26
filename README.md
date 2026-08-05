@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What biscuit does a short person like? Shortbread. 
+> There's not really any training for garbagemen. They just pick things up as they go.
 <!-- DADJOKE_END -->
 
 
