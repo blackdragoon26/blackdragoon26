@@ -151,6 +151,18 @@ resume.objective: Discover high-signal engineering opportunities while preventin
 resume.approach: Built a multi-agent discovery and independent-review pipeline around typed lead records || Added deterministic freshness, eligibility, contact relevance, relocation evidence, and deduplication gates
 resume.impact: Delivers an evidence-backed Telegram digest while rejecting guessed contacts, unsupported geography, stale roles, and duplicate leads.
 -->
+12. [<b>XNIC v1</b>](https://xnic-v1.vercel.app/): An interview-grade Linux networking-driver lab built around a clean-room Intel 82540EM/e1000 PCI Ethernet driver, with BAR0 MMIO, DMA descriptor rings, interrupt-driven NAPI, TX backpressure, ethtool telemetry, fault injection, and serialized timeout/reset recovery. It also includes a software-qualified W5500 SPI driver path and a gated DPDK L2 forwarder, while keeping physical-silicon, ENA, and RDMA validation explicitly out of scope until real hardware evidence exists.
+<br>Repo: https://github.com/blackdragoon26/xnic-v1 · [Technical docs](https://xnic-v1.vercel.app/docs)
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/xnic-v1
+live: https://xnic-v1.vercel.app/
+stack: Linux Kernel, C, PCI, BAR0 MMIO, DMA, Descriptor Rings, e1000, Intel 82540EM, net_device, NAPI, IRQ, MSI, ethtool, QEMU, HVF, KFENCE, sparse, DPDK, rte_ethdev, net_pcap PMD, tcpdump, Wireshark, W5500, SPI, Device Tree, Bash, GitHub Actions, Vercel
+screenshot: auto
+resume: yes
+resume.objective: Build and qualify a defensible clean-room Linux Ethernet driver with observable packet paths, ownership invariants, fault recovery, and a gated user-space DPDK forwarding path.
+resume.approach: Implemented PCI probe/remove, BAR0 MMIO, coherent and streaming DMA rings, interrupt-driven NAPI, TX queue backpressure, ethtool counters, and serialized watchdog/reset recovery in C || Added staged fault injection, KFENCE and sparse qualification, reproducible QEMU/HVF automation, Wireshark-compatible captures, a W5500 SPI driver path, and an rte_ethdev L2 forwarder
+resume.impact: Qualified 10,100 RX and TX ring wraps across 646,400 packets at zero loss, 1,000 interface cycles, 100 driver rebinds, and 100 reset-under-traffic cycles; validated DPDK partial-TX cleanup and signal-safe shutdown with the net_pcap virtual PMD.
+-->
 
 ## AI (The elixir to doom?)
 
