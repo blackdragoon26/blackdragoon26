@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call a fake noodle? An impasta.
+> What did the mountain climber name his son? Cliff.
 <!-- DADJOKE_END -->
 
 
