@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the mountain climber name his son? Cliff.
+> I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 <!-- DADJOKE_END -->
 
 
