@@ -3,7 +3,11 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
+> Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?
+
+Doctor: No, humans can never hear that high of a frequency no matter what age they are.
+
+Me: Trick question... dogs can't whistle.
 <!-- DADJOKE_END -->
 
 
