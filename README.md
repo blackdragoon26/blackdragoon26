@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call a cow on a trampoline? A milk shake!
+> What did the left eye say to the right eye? Between us, something smells!
 <!-- DADJOKE_END -->
 
 
