@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the left eye say to the right eye? Between us, something smells!
+> What do you call your friend who stands in a hole? Phil.
 <!-- DADJOKE_END -->
 
 
