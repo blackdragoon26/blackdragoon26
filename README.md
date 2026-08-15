@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call your friend who stands in a hole? Phil.
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 <!-- DADJOKE_END -->
 
 
