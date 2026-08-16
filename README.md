@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> What creature is smarter than a talking parrot? A spelling bee.
 <!-- DADJOKE_END -->
 
 
