@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What creature is smarter than a talking parrot? A spelling bee.
+> What has ears but cannot hear? A field of corn.
 <!-- DADJOKE_END -->
 
 
