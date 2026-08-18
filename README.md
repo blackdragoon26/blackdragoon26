@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What has ears but cannot hear? A field of corn.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 <!-- DADJOKE_END -->
 
 
