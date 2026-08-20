@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I was going to get a brain transplant, but I changed my mind
+> Why are graveyards so noisy? Because of all the coffin.
 <!-- DADJOKE_END -->
 
 
