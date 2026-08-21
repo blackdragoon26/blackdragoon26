@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why are graveyards so noisy? Because of all the coffin.
+> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
 <!-- DADJOKE_END -->
 
 
