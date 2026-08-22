@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> What don't watermelons get married? Because they cantaloupe.
 <!-- DADJOKE_END -->
 
 
