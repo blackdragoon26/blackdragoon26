@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What don't watermelons get married? Because they cantaloupe.
+> I used to be addicted to soap, but I'm clean now.
 <!-- DADJOKE_END -->
 
 
