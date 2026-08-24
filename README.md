@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I used to be addicted to soap, but I'm clean now.
+> What do you call a criminal going down the stairs? Condescending
 <!-- DADJOKE_END -->
 
 
