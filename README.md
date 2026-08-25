@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call a criminal going down the stairs? Condescending
+> How do robots eat guacamole? With computer chips.
 <!-- DADJOKE_END -->
 
 
