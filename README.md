@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+> Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 <!-- DADJOKE_END -->
 
 
