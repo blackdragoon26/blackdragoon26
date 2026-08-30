@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How do you get a baby alien to sleep?  You rocket.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 <!-- DADJOKE_END -->
 
 
