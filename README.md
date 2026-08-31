@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 <!-- DADJOKE_END -->
 
 
