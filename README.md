@@ -3,7 +3,9 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+>  I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
+
+
 <!-- DADJOKE_END -->
 
 
