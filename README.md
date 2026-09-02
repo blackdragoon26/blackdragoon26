@@ -3,9 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
->  I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+> Why did the tree go to the dentist? It needed a root canal.
 <!-- DADJOKE_END -->
 
 
