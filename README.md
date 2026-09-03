@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the tree go to the dentist? It needed a root canal.
+> What is a vampire's favorite fruit? A blood orange.
 <!-- DADJOKE_END -->
 
 
