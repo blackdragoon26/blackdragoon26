@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What is a vampire's favorite fruit? A blood orange.
+> I was going to get a brain transplant, but I changed my mind
 <!-- DADJOKE_END -->
 
 
