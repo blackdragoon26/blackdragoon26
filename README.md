@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I was going to get a brain transplant, but I changed my mind
+> Can February march? No, but April may.
 <!-- DADJOKE_END -->
 
 
