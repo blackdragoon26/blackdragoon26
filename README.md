@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Can February march? No, but April may.
+> Did you hear about the Mexican train killer? He had loco motives
 <!-- DADJOKE_END -->
 
 
