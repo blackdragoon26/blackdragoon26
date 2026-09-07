@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Did you hear about the Mexican train killer? He had loco motives
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 <!-- DADJOKE_END -->
 
 
