@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> What do you call a beehive without the b's? An eehive.
 <!-- DADJOKE_END -->
 
 
