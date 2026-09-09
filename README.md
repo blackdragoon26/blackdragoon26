@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call a beehive without the b's? An eehive.
+> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 <!-- DADJOKE_END -->
 
 
