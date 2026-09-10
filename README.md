@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
+> Did you hear about the Mexican train killer? He had loco motives
 <!-- DADJOKE_END -->
 
 
