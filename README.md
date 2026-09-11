@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Did you hear about the Mexican train killer? He had loco motives
+> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
 <!-- DADJOKE_END -->
 
 
