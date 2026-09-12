@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
+> What’s Forest Gump’s Facebook password? 1forest1
 <!-- DADJOKE_END -->
 
 
