@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What’s Forest Gump’s Facebook password? 1forest1
+> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
 <!-- DADJOKE_END -->
 
 
