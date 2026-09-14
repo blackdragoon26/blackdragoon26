@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 <!-- DADJOKE_END -->
 
 
