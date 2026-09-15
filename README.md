@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
+> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
 <!-- DADJOKE_END -->
 
 
