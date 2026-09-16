@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call a fashionable lawn statue with an excellent sense of rhythmn? A metro-gnome
+> I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
 <!-- DADJOKE_END -->
 
 
