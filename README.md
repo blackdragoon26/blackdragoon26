@@ -3,7 +3,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+> What did the Buffalo say to his little boy when he dropped him off at school? Bison.
 <!-- DADJOKE_END -->
 
 
