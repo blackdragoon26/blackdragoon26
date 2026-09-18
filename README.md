@@ -12,8 +12,8 @@ I know you laughed, now pay up
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sankalpjha)
 
 ## Anyways, about me:
-I am a dynamic OS system's engineer, and I love to delve in the bisection of low-level engineering and Networking itself along  with classic Vanilla, i.e.m Go Backend and DevOps!
-<br>With the focus on skills rather than language itself, I learn, I adapt, and ship at GodSpeed!
+A dynamic OS system's engineer, who loves to delve in the bisection of low-level engineering and Networking itself along  with classic Vanilla, i.e. Go Backend and DevOps!
+<br>I try to focus on skills rather than language itself; learning, adapting, and shipping at GodSpeed!
 
 ## Wall of Fame
 <!-- portfolio-sync-revision: ats-resume-v2 -->
