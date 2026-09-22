@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why did the man run around his bed? Because he was trying to catch up on his sleep!
+> Why did the tree go to the dentist? It needed a root canal.
 <!-- DADJOKE_END -->
 
 
