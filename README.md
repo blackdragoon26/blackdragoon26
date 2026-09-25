@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I don't trust stairs. They're always up to something.
+> They're making a movie about clocks. It's about time
 <!-- DADJOKE_END -->
 
 
