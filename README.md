@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> They're making a movie about clocks. It's about time
+> You know that cemetery up the road? People are dying to get in there.
 <!-- DADJOKE_END -->
 
 
