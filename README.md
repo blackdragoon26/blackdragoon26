@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> You know that cemetery up the road? People are dying to get in there.
+> I couldn't get a reservation at the library. They were completely booked.
 <!-- DADJOKE_END -->
 
 
