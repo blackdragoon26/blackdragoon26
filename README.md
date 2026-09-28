@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I couldn't get a reservation at the library. They were completely booked.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 <!-- DADJOKE_END -->
 
 
