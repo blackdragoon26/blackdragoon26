@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 <!-- DADJOKE_END -->
 
 
