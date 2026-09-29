@@ -165,6 +165,19 @@ resume.approach: Implemented PCI probe/remove, BAR0 MMIO, coherent and streaming
 resume.impact: Qualified 10,100 RX and TX ring wraps across 646,400 packets at zero loss, 1,000 interface cycles, 100 driver rebinds, and 100 reset-under-traffic cycles; validated DPDK partial-TX cleanup and signal-safe shutdown with the net_pcap virtual PMD.
 -->
 
+13. [<b>proofinfer</b>](https://proofinfer.vercel.app/): A Llama inference engine written in Rust with zero external crates, built around proving it actually computes the right thing. It is differentially tested against the PyTorch reference from karpathy/llama2.c across 6 configurations (every logit at every position), produces byte-identical greedy output against `run.c`, has mutation testing on both the harness and the Rust test suite so neither can silently fail to fail, and carries a machine-checked Verus proof of KV-cache index safety. Limits are documented honestly, including where the proof stops and where `run.c -Ofast` is still faster.
+<br>Repo: https://github.com/blackdragoon26/proofinfer · [Technical docs](https://github.com/blackdragoon26/proofinfer/tree/main/docs)
+<!-- portfolio-meta
+repo: https://github.com/blackdragoon26/proofinfer
+live: https://proofinfer.vercel.app/
+stack: Rust, Verus, Python, PyTorch, C, llama2.c, Differential Testing, Mutation Testing, Formal Verification, GitHub Actions, Vercel
+screenshot: auto
+resume: no
+resume.objective: Build a dependency-free Llama inference engine whose correctness is backed by independent evidence rather than claimed.
+resume.approach: Implemented Llama inference in pure Rust with an 8-lane dot product and no external crates || Verified it through PyTorch differential testing, byte-identical comparison against run.c, mutation testing of both harness and tests, and a Verus proof of KV-cache index safety
+resume.impact: Passed 6/6 differential configurations at max error 1.0e-5 and 200/200 top-1 on real stories15M weights; caught 10/10 harness and 21/21 test-suite mutants; 24 Verus obligations verified with 0 errors; 835 tok/s single-threaded, 5.4x over the naive dot product.
+-->
+
 ## AI (The elixir to doom?)
 
 **I use AI**, there I said it in **Public!**, now that means utilizing them in such maneuvers which help to create value for me and my work.
