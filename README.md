@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
+> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 <!-- DADJOKE_END -->
 
 
