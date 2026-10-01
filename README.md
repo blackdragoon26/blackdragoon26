@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+> Animal Fact #25: Most bobcats are not named bob.
 <!-- DADJOKE_END -->
 
 
