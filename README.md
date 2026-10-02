@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Animal Fact #25: Most bobcats are not named bob.
+> What is a vampire's favorite fruit? A blood orange.
 <!-- DADJOKE_END -->
 
 
