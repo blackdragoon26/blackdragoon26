@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What is a vampire's favorite fruit? A blood orange.
+> How do you make a hankie dance? Put a little boogie in it.
 <!-- DADJOKE_END -->
 
 
