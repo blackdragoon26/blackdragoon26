@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> How do you make a hankie dance? Put a little boogie in it.
+> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
 <!-- DADJOKE_END -->
 
 
