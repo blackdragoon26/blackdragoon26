@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I used to have a job at a calendar factory but I got the sack because I took a couple of days off.
+> Why did the tree go to the dentist? It needed a root canal.
 <!-- DADJOKE_END -->
 
 
