@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+> A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 <!-- DADJOKE_END -->
 
 
