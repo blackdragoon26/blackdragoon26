@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
+> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
 <!-- DADJOKE_END -->
 
 
