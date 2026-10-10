@@ -4,7 +4,8 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+> My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
+I know he means well.
 <!-- DADJOKE_END -->
 
 
