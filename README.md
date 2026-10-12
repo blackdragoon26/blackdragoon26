@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Sore throats are a pain in the neck!
+> Can I watch the TV? Dad: Yes, but don’t turn it on.
 <!-- DADJOKE_END -->
 
 
