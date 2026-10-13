@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Can I watch the TV? Dad: Yes, but don’t turn it on.
+> Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
 <!-- DADJOKE_END -->
 
 
