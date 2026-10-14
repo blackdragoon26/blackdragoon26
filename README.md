@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 <!-- DADJOKE_END -->
 
 
