@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 <!-- DADJOKE_END -->
 
 
