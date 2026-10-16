@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why is the new Kindle screen textured to look like paper? So you feel write at home.
+> Remember, the best angle to approach a problem from is the "try" angle.
 <!-- DADJOKE_END -->
 
 
