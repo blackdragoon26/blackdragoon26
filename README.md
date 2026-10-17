@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Remember, the best angle to approach a problem from is the "try" angle.
+> I just wrote a book on reverse psychology. Do not read it!
 <!-- DADJOKE_END -->
 
 
