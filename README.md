@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I just wrote a book on reverse psychology. Do not read it!
+> What did one plate say to the other plate? Dinner is on me!
 <!-- DADJOKE_END -->
 
 
