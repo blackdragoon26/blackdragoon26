@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did one plate say to the other plate? Dinner is on me!
+> What kind of award did the dentist receive? A little plaque.
 <!-- DADJOKE_END -->
 
 
