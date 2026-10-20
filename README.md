@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What kind of award did the dentist receive? A little plaque.
+> What did the dog say to the two trees? Bark bark.
 <!-- DADJOKE_END -->
 
 
