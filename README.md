@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the dog say to the two trees? Bark bark.
+> What do you call an Argentinian with a rubber toe? Roberto
 <!-- DADJOKE_END -->
 
 
