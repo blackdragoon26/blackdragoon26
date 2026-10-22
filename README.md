@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call an Argentinian with a rubber toe? Roberto
+> What did the 0 say to the 8? Nice belt.
 <!-- DADJOKE_END -->
 
 
