@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the 0 say to the 8? Nice belt.
+> Which side of the chicken has more feathers? The outside.
 <!-- DADJOKE_END -->
 
 
