@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Which side of the chicken has more feathers? The outside.
+> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
 <!-- DADJOKE_END -->
 
 
