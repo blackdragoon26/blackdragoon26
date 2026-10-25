@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 <!-- DADJOKE_END -->
 
 
