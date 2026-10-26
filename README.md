@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+> Where do you take someone who’s been injured in a peek-a-boo accident? To the I.C.U.
 <!-- DADJOKE_END -->
 
 
