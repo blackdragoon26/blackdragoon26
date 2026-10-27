@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Where do you take someone who’s been injured in a peek-a-boo accident? To the I.C.U.
+> A Skeleton walked into a bar he said I need a beer and a mop
 <!-- DADJOKE_END -->
 
 
