@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> A Skeleton walked into a bar he said I need a beer and a mop
+> Why are basketball players messy eaters? Because they are always dribbling.
 <!-- DADJOKE_END -->
 
 
