@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why are basketball players messy eaters? Because they are always dribbling.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 <!-- DADJOKE_END -->
 
 
