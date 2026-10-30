@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> Why do bears have hairy coats? Fur protection.
 <!-- DADJOKE_END -->
 
 
