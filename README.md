@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why do bears have hairy coats? Fur protection.
+> Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
 <!-- DADJOKE_END -->
 
 
