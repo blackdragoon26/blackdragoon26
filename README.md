@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+> People are shocked to discover I have a police record but I love their greatest hits!
 <!-- DADJOKE_END -->
 
 
