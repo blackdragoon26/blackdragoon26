@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> People are shocked to discover I have a police record but I love their greatest hits!
+> The shovel was a ground-breaking invention.
 <!-- DADJOKE_END -->
 
 
