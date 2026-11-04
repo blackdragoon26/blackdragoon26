@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> The shovel was a ground-breaking invention.
+> Why was the picture sent to prison? It was framed.
 <!-- DADJOKE_END -->
 
 
