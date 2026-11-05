@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why was the picture sent to prison? It was framed.
+> What kind of bagel can fly? A plain bagel.
 <!-- DADJOKE_END -->
 
 
