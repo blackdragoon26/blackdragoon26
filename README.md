@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Where does astronauts hangout after work? At the spacebar.
+> Some people eat light bulbs. They say it's a nice light snack.
 <!-- DADJOKE_END -->
 
 
