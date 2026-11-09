@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Some people eat light bulbs. They say it's a nice light snack.
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 <!-- DADJOKE_END -->
 
 
