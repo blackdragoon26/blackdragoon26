@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> What do you call your friend who stands in a hole? Phil.
 <!-- DADJOKE_END -->
 
 
