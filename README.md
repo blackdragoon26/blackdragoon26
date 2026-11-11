@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do you call your friend who stands in a hole? Phil.
+> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 <!-- DADJOKE_END -->
 
 
