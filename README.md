@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+> I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 <!-- DADJOKE_END -->
 
 
