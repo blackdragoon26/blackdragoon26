@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What has three letters and starts with gas? A Car.
+> You can't trust a ladder. It will always let you down
 <!-- DADJOKE_END -->
 
 
