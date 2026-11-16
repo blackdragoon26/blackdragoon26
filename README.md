@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> You can't trust a ladder. It will always let you down
+> Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
 <!-- DADJOKE_END -->
 
 
