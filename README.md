@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why don’t skeletons ever go trick or treating? Because they have nobody to go with.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 <!-- DADJOKE_END -->
 
 
