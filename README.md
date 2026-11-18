@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why couldn't the lifeguard save the hippie? He was too far out, man.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 <!-- DADJOKE_END -->
 
 
