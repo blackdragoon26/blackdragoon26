@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I'm glad I know sign language, it's pretty handy.
+> I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
 <!-- DADJOKE_END -->
 
 
