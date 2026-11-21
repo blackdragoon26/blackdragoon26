@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I’ve got this disease where I can’t stop making airport puns. The doctor says it terminal.
+> Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 <!-- DADJOKE_END -->
 
 
