@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+> What do prisoners use to call each other? Cell phones.
 <!-- DADJOKE_END -->
 
 
