@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What do prisoners use to call each other? Cell phones.
+> What did the piece of bread say to the knife? Butter me up.
 <!-- DADJOKE_END -->
 
 
