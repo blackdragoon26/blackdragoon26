@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> What did the piece of bread say to the knife? Butter me up.
+> Why do bears have hairy coats? Fur protection.
 <!-- DADJOKE_END -->
 
 
