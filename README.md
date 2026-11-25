@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why do bears have hairy coats? Fur protection.
+> I invented a new word! Plagiarism!
 <!-- DADJOKE_END -->
 
 
