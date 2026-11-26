@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> I invented a new word! Plagiarism!
+> Why don't eggs tell jokes? They'd crack each other up
 <!-- DADJOKE_END -->
 
 
