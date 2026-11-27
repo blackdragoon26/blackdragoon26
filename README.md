@@ -5,8 +5,8 @@
 # Sankalp Jha
 
 <p>
-  <a href="https://sankalpjha.dev/"><img src="https://img.shields.io/badge/Portfolio-sankalpjha.dev-0F766E?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" height="28"></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sankalp-jha-18a95a244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjMyIDEuM1YxMS41aC0yLjc5djhoMi43OXYtNC43MmMwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuNzJoMi43OU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjktLjkzIDAtMS42OS43Ni0xLjY5IDEuNjkgMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSAxMC45NHYtOC4zaC0yLjc3djguM2gyLjc3eiIvPjwvc3ZnPg==" alt="LinkedIn" height="28"></a>&nbsp;&nbsp;
+  <a href="https://sankalpjha.dev/"><img src="https://img.shields.io/badge/Portfolio-sankalpjha.dev-0F766E?style=for-the-badge" alt="Portfolio" height="28"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sankalp-jha-18a95a244/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="28"></a>&nbsp;&nbsp;
   <a href="https://x.com/SankalpJha26"><img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white" alt="X" height="28"></a>&nbsp;&nbsp;
   <a href="mailto:sankalp.jha9643@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"></a>
 </p>
