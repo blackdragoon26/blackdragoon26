@@ -4,7 +4,7 @@
 
 <!-- DADJOKE_START -->
 ### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
-> Why don't eggs tell jokes? They'd crack each other up
+> What has ears but cannot hear? A field of corn.
 <!-- DADJOKE_END -->
 
 
