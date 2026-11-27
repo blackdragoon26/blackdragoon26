@@ -9,6 +9,7 @@ on:
 
 jobs:
   notify:
+    if: github.event_name == 'workflow_dispatch' || !startsWith(github.event.head_commit.message, 'Update Dad Joke')
     runs-on: ubuntu-latest
     env:
       PORTFOLIO_SYNC_TOKEN: ${{ secrets.PORTFOLIO_SYNC_TOKEN }}
