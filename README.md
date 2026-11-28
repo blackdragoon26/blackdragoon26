@@ -14,8 +14,8 @@
 ---
 
 <!-- DADJOKE_START -->
-### Worst Dad Joke of the day `￣\_(ツ)_/￣`
-> What has ears but cannot hear? A field of corn.
+### Worst Dad Joke of the day ￣\_(ツ)_/￣ 
+> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
 <!-- DADJOKE_END -->
 
 <p>I know you laughed, now pay up &nbsp;<a href="https://buymeacoffee.com/sankalpjha"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" height="26" align="absmiddle"></a></p>
